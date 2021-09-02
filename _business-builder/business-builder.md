@@ -18,7 +18,7 @@ Explore our library of helpful articles for tips and things to consider while ru
     <div class="one-third-column">
 						<a href="/business-builder/getting-started/test/">
 							<img src="/images/icons/Database-01.png">
-							test
+							<div class="centered" color="white"><b>Test 3</b></div>
 			</a>
 </div>
 
