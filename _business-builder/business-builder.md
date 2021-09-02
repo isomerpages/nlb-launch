@@ -16,8 +16,12 @@ Explore our library of helpful articles for tips and things to consider while ru
 						test 2
     </div>
     <div class="one-third-column">
-						test 3
+						<a href="/business-builder/getting-started/test/">
+							test 3
+							<img src="/images/hero-banner.png>
+							</a>
     </div>
+		
     <div class="one-third-column">
 						test 4
     </div>
