@@ -22,16 +22,4 @@ Explore our library of helpful articles for tips and things to consider while ru
 							<b>Image</b>
 			</a>
 </div>
-<p>
-	
-<div class ="row is-multiline">
-    <div class="one-third-column">
-						test 4
-    </div>
-    <div class="one-third-column">
-						test 5
-    </div>
-    <div class="one-third-column">
-						test 6
-    </div>
-</div>
+more text more text
