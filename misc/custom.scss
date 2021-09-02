@@ -286,6 +286,16 @@ $desktop: 960px + (2 * $gap) !default;
   border-bottom: 2px solid $secondary;
 }
 
+// Columns for cards
+.one-third-column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  top: 50%;
+  left: 50%;
+  background-color:#999999
+}
+
 // CSS to be refactored
 .content img.digital-transformation-icon {
   height: 80px;
