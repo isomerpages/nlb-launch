@@ -10,18 +10,20 @@ Explore our library of helpful articles for tips and things to consider while ru
 
 <div class ="row is-multiline">
     <div class="one-third-column">
-						test 1
+						<img src="/images/favicon-isomer.ico">
+			<div class="centered">test 1</div>
     </div>
     <div class="one-third-column">
-						test 2
+						<div class="centered">test 2</div>
     </div>
     <div class="one-third-column">
 						<a href="/business-builder/getting-started/test/">
 							<img src="/images/icons/Database-01.png">
-							<div class="centered" color="white"><b>Test 3</b></div>
+							<b>Image</b>
 			</a>
 </div>
-
+<p>
+	
 <div class ="row is-multiline">
     <div class="one-third-column">
 						test 4
