@@ -292,9 +292,17 @@ $desktop: 960px + (2 * $gap) !default;
   height: 9rem;
   width: 33.33%;
   padding: 10px;
-  align-items: center;
   background-color:#999999
   margin: 1rem;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+
+.img {
+        max-width: 100%;
+        max-height: 100%;
+        display: block; /* remove extra space below image */
 }
 
 // CSS to be refactored
