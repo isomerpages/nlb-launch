@@ -289,20 +289,22 @@ $desktop: 960px + (2 * $gap) !default;
 // Columns for cards
 .one-third-column {
   float: left;
-  width: 33.33%;
-  margin: 10px;
+  width: 500px;
+  height: 240px;
+  margin: 2px;
   background-color:#999999;
-  margin: 1rem;
   display: grid;
   justify-content: center;
   align-content: center;
   object-fit: scale-down;
 }
 
-.img {
-        max-width: 100%;
-        max-height: 100%;
-        display: block; /* remove extra space below image */
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 // CSS to be refactored
