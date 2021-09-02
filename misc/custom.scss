@@ -289,11 +289,12 @@ $desktop: 960px + (2 * $gap) !default;
 // Columns for cards
 .one-third-column {
   float: left;
+  height: 9rem;
   width: 33.33%;
   padding: 10px;
-  top: 50%;
-  left: 50%;
+  align-items: center;
   background-color:#999999
+  margin: 1rem;
 }
 
 // CSS to be refactored
