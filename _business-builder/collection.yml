@@ -2,6 +2,7 @@ collections:
   business-builder:
     output: true
     order:
+      - business-builder.md
       - getting-started/.keep
       - getting-started/test.md
       - developing-a-business-plan/.keep
