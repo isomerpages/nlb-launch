@@ -1,0 +1,6 @@
+collections:
+  nlb-resources:
+    output: true
+    order:
+      - print-and-digital-resources/.keep
+      - print-and-digital-resources/test.md

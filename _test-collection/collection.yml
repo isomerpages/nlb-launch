@@ -1,5 +1,0 @@
-collections:
-  test-collection:
-    output: true
-    order:
-      - test-page.md

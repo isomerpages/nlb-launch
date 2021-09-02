@@ -1,0 +1,10 @@
+collections:
+  skills-and-training-advisory:
+    output: true
+    order:
+      - landscape/.keep
+      - landscape/test.md
+      - all-about-skills/.keep
+      - all-about-skills/test.md
+      - what-is-next/.keep
+      - what-is-next/test.md

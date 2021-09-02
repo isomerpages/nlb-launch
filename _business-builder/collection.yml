@@ -1,0 +1,14 @@
+collections:
+  business-builder:
+    output: true
+    order:
+      - getting-started/.keep
+      - getting-started/test.md
+      - developing-a-business-plan/.keep
+      - developing-a-business-plan/example-title.md
+      - all-things-financial-and-legal/.keep
+      - all-things-financial-and-legal/test.md
+      - launched-and-stay-on-course/.keep
+      - launched-and-stay-on-course/test.md
+      - venturing-beyond-singapore/.keep
+      - venturing-beyond-singapore/test-page.md
