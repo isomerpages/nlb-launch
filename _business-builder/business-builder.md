@@ -14,7 +14,7 @@ Explore our library of helpful articles for tips and things to consider while ru
 			      <img src="/images/favicon-isomer.ico">
 		   	    </div>
     <div class="one-third-column">
-						<div class="centered">test 2</div>
+						<div class="text-block">test 2</div>
     </div>
     <div class="one-third-column">
 						<a href="/business-builder/getting-started/test/">
