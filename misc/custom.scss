@@ -289,14 +289,14 @@ $desktop: 960px + (2 * $gap) !default;
 // Columns for cards
 .one-third-column {
   float: left;
-  height: 9rem;
   width: 33.33%;
-  padding: 10px;
+  margin: 10px;
   background-color:#999999
   margin: 1rem;
   display: grid;
   justify-content: center;
   align-content: center;
+  object-fit: scale-down;
 }
 
 .img {
