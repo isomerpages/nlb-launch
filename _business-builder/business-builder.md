@@ -9,17 +9,44 @@ No matter what stage your business is at, we have the tools and resources to tak
 Explore our library of helpful articles for tips and things to consider while running a successful business.
 
 <div class ="row is-multiline">
+	 <a href="/business-builder/getting-started/test">
     <div class="one-third-column">
-						<div class="text-block">test 1</div>
-			      <img src="/images/favicon-isomer.ico">
-		   	    </div>
-    <div class="one-third-column">
-						<div class="text-block">test 2</div>
-    </div>
-    <div class="one-third-column">
-						<a href="/business-builder/getting-started/test/">
-							<img src="/images/icons/Database-01.png" width=100%>
-							<b>Image</b>
+			<img src="/images/writing.jpg">
+             <div class="text-block">
+							 <b>Getting Started</b>
+            </div>
+   </div>
 			</a>
+	<a href="/business-builder/business-plan/test">
+    <div class="one-third-column">
+             <div class="text-block">
+							 <b>Business Plans</b>
+            </div>
+   </div>
+	</a>
+	<a href="/business-builder/financial-and-legal/test">
+    <div class="one-third-column">
+             <div class="text-block">
+              <b>Finance and Legal</b>
+            </div>
+   </div>
+	</a>
 </div>
-more text more text
+
+<div class ="row is-multiline">
+   <a href="/business-builder/launched-and-stay-on-course/test/">
+		 <div class="one-third-column">
+							<img src="/images/computer.jpg">
+             <div class="text-block">
+              <b>Launching and Staying the Course</b>
+            </div>
+   </div>
+		 </a>
+	 <a href="/business-builder/venturing-beyond-sg/test/">
+    <div class="one-third-column">
+             <div class="text-block">
+              <b>Venturing Beyond Singapore</b>
+            </div>
+			</div>
+		 </a>
+</div>
