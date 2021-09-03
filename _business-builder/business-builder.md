@@ -8,10 +8,12 @@ No matter what stage your business is at, we have the tools and resources to tak
 
 Explore our library of helpful articles for tips and things to consider while running a successful business.
 
+<hr>
+
 <div class ="row is-multiline">
 	 <a href="/business-builder/getting-started/test">
     <div class="one-third-column">
-			<img src="/images/writing.jpg">
+			<img src="/images/writing-270px.jpg">
              <div class="text-block">
 							 <b>Getting Started</b>
             </div>
@@ -19,6 +21,7 @@ Explore our library of helpful articles for tips and things to consider while ru
 			</a>
 	<a href="/business-builder/business-plan/test">
     <div class="one-third-column">
+			<img src="/images/event-270px.jpg">
              <div class="text-block">
 							 <b>Business Plans</b>
             </div>
@@ -26,6 +29,7 @@ Explore our library of helpful articles for tips and things to consider while ru
 	</a>
 	<a href="/business-builder/financial-and-legal/test">
     <div class="one-third-column">
+							<img src="/images/computer-270px.jpg">
              <div class="text-block">
               <b>Finance and Legal</b>
             </div>
@@ -36,7 +40,7 @@ Explore our library of helpful articles for tips and things to consider while ru
 <div class ="row is-multiline">
    <a href="/business-builder/launched-and-stay-on-course/test/">
 		 <div class="one-third-column">
-							<img src="/images/computer.jpg">
+							<img src="/images/laptop-270px.jpg">
              <div class="text-block">
               <b>Launching and Staying the Course</b>
             </div>
@@ -44,6 +48,7 @@ Explore our library of helpful articles for tips and things to consider while ru
 		 </a>
 	 <a href="/business-builder/venturing-beyond-sg/test/">
     <div class="one-third-column">
+							<img src="/images/people-270px.jpg">
              <div class="text-block">
               <b>Venturing Beyond Singapore</b>
             </div>
