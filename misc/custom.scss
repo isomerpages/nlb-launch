@@ -38,9 +38,9 @@ $desktop: 960px + (2 * $gap) !default;
 @font-face {
     font-family: 'Stratos';
         src:
-            url('fonts/stratosweb-regular-TRIAL.eot?#iefix') format('embedded-opentype'),
-            url('fonts/stratosweb-regular-TRIAL.woff') format('woff'),
-            url('fonts/stratos-regular-TRIAL.otf') format('opentype');
+            url('/fonts/stratosweb-regular-TRIAL.eot?#iefix') format('embedded-opentype'),
+            url('/fonts/stratosweb-regular-TRIAL.woff') format('woff'),
+            url('/fonts/stratos-regular-TRIAL.otf') format('opentype');
 }
 
 
