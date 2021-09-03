@@ -30,6 +30,20 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+@font-face {
+      font-family: 'Bitstream';
+      src: url("https://mdn.mozillademos.org/files/2468/VeraSeBd.ttf");
+}
+
+@font-face {
+    font-family: 'Stratos';
+        src:
+            url('fonts/stratosweb-regular-TRIAL.eot?#iefix') format('embedded-opentype'),
+            url('fonts/stratosweb-regular-TRIAL.woff') format('woff'),
+            url('fonts/stratos-regular-TRIAL.otf') format('opentype');
+}
+
+
 // Background
 .bg{
   &-primary{
@@ -287,6 +301,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 // Columns for cards
+
 .one-third-column {
     display: flex;
     justify-content: center;
@@ -310,7 +325,8 @@ $desktop: 960px + (2 * $gap) !default;
   filter: grayscale(90%);   
 }
 
-/* text block */
+// text block //
+
 .text-block {
   position: absolute;
   background-color: gray;
