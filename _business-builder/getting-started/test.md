@@ -7,6 +7,15 @@ third_nav_title: Getting Started
 ## Header 2
 ### Header 3
 
+<div class="bitstream">
+	 Bitstream test text
+	</div>
+
+<div class="stratos">
+	 Stratos test text
+	</div>
+
+abcde
 
 <div style="font-family:stratos, Times New Roman">
 	   Stratos regular

@@ -30,19 +30,34 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+// Fonts
+
 @font-face {
-      font-family: 'Bitstream';
-      src: url("https://mdn.mozillademos.org/files/2468/VeraSeBd.ttf");
+    font-family: 'Bitstream';
+    src: url(https://mdn.mozillademos.org/files/2468/VeraSeBd.ttf);
+    font-weight: normal;
+    font-style: normal;
 }
 
 @font-face {
     font-family: 'Stratos';
-        src:
-            url('/fonts/stratosweb-regular-TRIAL.eot?#iefix') format('embedded-opentype'),
-            url('/fonts/stratosweb-regular-TRIAL.woff') format('woff'),
-            url('/fonts/stratos-regular-TRIAL.otf') format('opentype');
+    src:
+        url(/fonts/stratosweb-regular-TRIAL.eot?#iefix) format('embedded-opentype'),
+        url(/fonts/stratosweb-regular-TRIAL.woff) format('woff'),
+        url(/fonts/stratos-regular-TRIAL.otf) format('opentype');
+    font-weight: normal;
+    font-style: normal;
 }
 
+.bitstream {
+  font-family: 'Bitstream', "Arial Narrow", serif;
+  color: green;
+}
+
+.stratos {
+  font-family: 'Stratos', Impact, serif;
+  color: green;
+}
 
 // Background
 .bg{
