@@ -1,5 +1,5 @@
 collections:
-  skills-and-training-advisory:
+  careers-and-skills:
     output: true
     order:
       - landscape/.keep
