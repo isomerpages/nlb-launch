@@ -1,8 +1,9 @@
 ---
-title: test
-permalink: /business-builder/getting-started/test
+title: Introduction
+permalink: /business-builder/getting-started/introduction
 third_nav_title: Getting Started
 ---
+
 # Header 1
 ## Header 2
 ### Header 3
