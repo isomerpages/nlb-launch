@@ -192,9 +192,11 @@ $desktop: 960px + (2 * $gap) !default;
 // Bottom navigation bar (previous and next page)
 .bottom-navigation {
 	a {
-		background-color: $launchsecondary;
-	    &:hover{
-	      background-color: darken($secondary,10%) !important;
+          font-family: stratos-regular;
+          font-weight: 400;
+          background-color: $launchsecondary;
+            &:hover{
+          background-color: darken($secondary,10%) !important;
 	    }
 	}
 }
@@ -203,6 +205,13 @@ $desktop: 960px + (2 * $gap) !default;
 
 .bp-section.bp-section-pagetitle {
   background-color: $secondary !important;
+}
+
+.bp-container {
+      a {
+        font-family: stratos-regular;
+        font-weight: 400;
+      }
 }
 
 // Pagination
@@ -312,6 +321,15 @@ $desktop: 960px + (2 * $gap) !default;
 		color: $secondary;
 	  }
 
+}
+
+// Footer
+
+.bp-footer {
+      a {
+        font-family: stratos-regular;
+        font-weight: 400;
+      }
 }
 
 // Media category buttons - not used now but will be used in the future
