@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - business-builder.md
-      - getting-started/.keep
-      - getting-started/contents.md
-      - getting-started/elevator-pitch-for-start-ups.md
+      - business-basics/.keep
+      - business-basics/contents.md
+      - business-basics/elevator-pitch-for-start-ups.md
       - developing-a-business-plan/.keep
       - developing-a-business-plan/example-title.md
       - all-things-financial-and-legal/.keep

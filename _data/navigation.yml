@@ -8,8 +8,8 @@ links:
     collection: business-builder
   - title: Careers And Skills
     collection: careers-and-skills
-  - title: Workshops And Programmes
-    collection: workshops-and-programmes
+  - title: Events
+    collection: events
   - title: Contact Us
     url: /contact-us
     sublinks:

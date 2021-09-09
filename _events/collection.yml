@@ -1,9 +1,9 @@
 collections:
-  workshops-and-programmes:
+  events:
     output: true
     order:
       - full-event-calendar.md
+      - business-research-training.md
       - webinars-and-workshops/.keep
       - webinars-and-workshops/webinar-1.md
       - ssg-and-wsg-programmes.md
-      - business-research-training.md

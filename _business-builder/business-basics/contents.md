@@ -1,8 +1,9 @@
 ---
 title: Contents
 permalink: /business-builder/getting-started/introduction
-third_nav_title: Getting Started
+third_nav_title: Business Basics
 ---
+
 
 # Getting started
 

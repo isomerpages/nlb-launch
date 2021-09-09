@@ -1,8 +1,9 @@
 ---
 title: Elevator Pitch for Start-ups
 permalink: /business-builder/getting-started/elevator-pitch
-third_nav_title: Getting Started
+third_nav_title: Business Basics
 ---
+
 # Elevator Pitch for Start-Ups
 
 An elevator pitch for start-ups is a condensed, easy-to-understand version of a business idea  delivered in the time it takes to ride an elevator. Entrepreneurs must be prepared to give a pitch at any time, including an elevator ride. The elevator pitch is used to interest an investor or executive into investing or joining the company. Its goal is to simply convey the overall business idea or concept in an exciting way. 
