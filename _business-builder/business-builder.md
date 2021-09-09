@@ -11,22 +11,28 @@ Explore our library of helpful articles for tips and things to consider while ru
 <hr>
 
 <div class="row is-multiline">
-	 <a href="/business-builder/getting-started/test">
+	 <a href="/business-builder/getting-started/introduction">
     <div class="one-third-column">
 			<img src="/images/businessbasicsgray.png">
 			 <div class="middle">
-				 <img src="/images/devbusinessplanorange.png">
+				 <img src="/images/businessbasicsorange.png">
 			</div>
 			</div>
 			</a>
 	<a href="/business-builder/business-plan/test">
     <div class="one-third-column">
 			<img src="/images/devbusinessplangray.png">
+				<div class="middle">
+				 <img src="/images/devbusinessplanorange.png">
+			</div>
    </div>
 	</a>
 	<a href="/business-builder/financial-and-legal/test">
     <div class="one-third-column">
 							<img src="/images/financeslegalgray.png">
+			 <div class="middle">
+				 <img src="/images/financeslegalorange.png">
+			</div>
    </div>
 	</a>
 </div>
@@ -35,11 +41,17 @@ Explore our library of helpful articles for tips and things to consider while ru
    <a href="/business-builder/launched-and-stay-on-course/test/">
 		 <div class="one-third-column">
 							<img src="/images/justlaunchedgray.png">
+				 <div class="middle">
+				 <img src="/images/justlaunchedorange.png">
+			</div>
    </div>
 		 </a>
 	 <a href="/business-builder/venturing-beyond-sg/test/">
     <div class="one-third-column">
 							<img src="/images/venturingbeyondgray.png">
+			 <div class="middle">
+				 <img src="/images/venturingbeyondorange.png">
+			</div>
 			</div>
 		 </a>
 </div>
