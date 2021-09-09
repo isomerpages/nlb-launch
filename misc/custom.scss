@@ -5,13 +5,18 @@
 @charset "utf-8";
 
 // Agency brand colors
+
 $primary: {{- site.colors.primary-color -}};
 $secondary: {{- site.colors.secondary-color -}};
 $secondary-hover: lighten($secondary, 10%);
+$launchsecondary: #F06553;
+
 
 {%- for media-color in site.colors.media-colors -%}
   ${{- media-color.title -}}: {{- media-color.color -}};
 {%- endfor -%}
+
+// Note: Launch branding secondary colour is #F06553
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
@@ -151,6 +156,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 // Menu/Left-nav
+
 .bp-menu-list a.is-active {
 	color: $secondary !important;
 	border-bottom: 2px solid $secondary !important;
@@ -159,7 +165,7 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 .bp-menu-list a:hover {
-	color: $secondary !important;
+	color: $launchsecondary !important;
 	border-bottom: 1px solid $secondary !important;
 }
 
@@ -191,18 +197,20 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
-// Bottom navigation bar
+// Bottom navigation bar (previous and next page)
 .bottom-navigation {
 	a {
-		background-color: $secondary;
+		background-color: $launchsecondary;
 	    &:hover{
 	      background-color: darken($secondary,10%) !important;
 	    }
 	}
 }
 
+// Top section with page title and breadcrumb //
+
 .bp-section.bp-section-pagetitle {
-  background-color: $primary !important;
+  background-color: $secondary !important;
 }
 
 // Pagination
@@ -239,6 +247,8 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 // Navbar
+// Selector is the colored bar below the nav-bar header item
+
 .navbar{
   &-start{
     .navbar-item{
@@ -274,10 +284,10 @@ $desktop: 960px + (2 * $gap) !default;
   }
 .navbar-item:hover {
   a {
-    color:$secondary;
+    color:$launchsecondary;
   }
   .selector {
-      background-color:$secondary;
+      background-color:$launchsecondary;
     }
   }
 }
