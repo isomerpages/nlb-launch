@@ -326,9 +326,7 @@ $desktop: 960px + (2 * $gap) !default;
     height: 180px;
     padding: 2px;
     margin: 0.5rem;
-    background-color: #E9ECEE;
 }
-
 
 .img {
   width: 100%;
@@ -336,8 +334,19 @@ $desktop: 960px + (2 * $gap) !default;
   object-fit: contain;
 }
 
-.one-third-column:hover {
-  filter: grayscale(90%);   
+.one-third-column:hover .image {
+  opacity: 0;
+}
+
+.one-third-column:hover .middle {
+  opacity: 1;
+}
+
+.middle {
+  opacity: 0;
+  position: absolute;
+  top: 0%;
+  left: 0%;
 }
 
 // text block //
@@ -350,6 +359,10 @@ $desktop: 960px + (2 * $gap) !default;
   text-align: center;
   max-width: 50%;
 } 
+
+.text-block:hover {
+  color: #ff6d59;
+}
 
 // CSS to be refactored
 .content img.digital-transformation-icon {
