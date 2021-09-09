@@ -38,30 +38,15 @@ $desktop: 960px + (2 * $gap) !default;
 // Fonts
 
 @font-face {
-    font-family: 'Bitstream';
-    src: url(https://mdn.mozillademos.org/files/2468/VeraSeBd.ttf);
-    font-weight: normal;
-    font-style: normal;
+  src: url(/fonts/stratos-regular-TRIAL.otf);
+  font-family: stratos-regular;
+  font-weight: 400;
 }
 
 @font-face {
-    font-family: 'Stratos';
-    src:
-        url(/fonts/stratosweb-regular-TRIAL.eot?#iefix) format('embedded-opentype'),
-        url(/fonts/stratosweb-regular-TRIAL.woff) format('woff'),
-        url(/fonts/stratos-regular-TRIAL.otf) format('opentype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-.bitstream {
-  font-family: 'Bitstream', "Arial Narrow", serif;
-  color: green;
-}
-
-.stratos {
-  font-family: 'Stratos', Impact, serif;
-  color: green;
+  src: url(/fonts/stratos-medium-TRIAL.otf);
+  font-family: stratos-medium;
+  font-weight: 500;
 }
 
 // Background
@@ -156,6 +141,13 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 // Menu/Left-nav
+
+.bp-menu-list{
+    a {
+      font-family: stratos-regular;
+      font-weight: 400;
+    }
+}
 
 .bp-menu-list a.is-active {
 	color: $secondary !important;
@@ -267,6 +259,10 @@ $desktop: 960px + (2 * $gap) !default;
   }
 
   .navbar-item{
+    a {
+      font-family: stratos-regular;
+      font-weight: 400;
+    }
     .sub-link.is-active{
       color:$secondary;
     }
@@ -294,21 +290,28 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Post-content
 .content {
+        a, p, li, em {
+                font-family: stratos-regular;
+                font-weight: 400;                
+          }
 	h1, h2, h3, h4, h5 {
 		color: $secondary;
 		strong {
 			color: $secondary;
 		}
-	}
+                font-family: stratos-medium;
+                font-weight: 500;
+	  }
 	blockquote {
 		border-left-color: $secondary;
-	}
+	  }
 	blockquote > p {
 		color: $secondary;
-	}
+	  }
 	blockquote > ul {
 		color: $secondary;
-	}
+	  }
+
 }
 
 // Media category buttons - not used now but will be used in the future
