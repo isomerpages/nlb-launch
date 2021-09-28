@@ -1,5 +1,5 @@
 collections:
-  bb-ideation-market-validation:
+  ideation-and-market-validation:
     output: true
     order:
       - identifying-and-evaluating-a-business-opportunity.md
