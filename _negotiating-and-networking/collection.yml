@@ -1,5 +1,5 @@
 collections:
-  bb-negotiating-networking:
+  negotiating-and-networking:
     output: true
     order:
       - elevator-pitch-for-start-ups.md
