@@ -3,7 +3,9 @@ title: Contents
 permalink: /business-builder/plan/
 third_nav_title: Developing A Business Plan
 ---
-# Contents
+# Developing A Business Plan
+
+Contents:
 
 1. What is a business plan?*
 2. How to write a great business plan*
