@@ -1,7 +1,8 @@
 ---
-title: Business Builder
+title: Contents
 permalink: /business-builder/
 ---
+
 ![Business Builder](/images/icons/Database-01.png)
 
 No matter what stage your business is at, we have the tools and resources to take it to the next level.

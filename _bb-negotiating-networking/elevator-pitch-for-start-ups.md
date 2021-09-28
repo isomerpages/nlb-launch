@@ -1,7 +1,6 @@
 ---
 title: Elevator Pitch for Start-ups
 permalink: /business-builder/basics/negotiate/elevator-pitch
-third_nav_title: Business Basics
 ---
 
 

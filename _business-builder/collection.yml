@@ -2,11 +2,9 @@ collections:
   business-builder:
     output: true
     order:
-      - business-builder.md
+      - contents.md
       - business-basics/.keep
       - business-basics/contents.md
-      - business-basics/elevator-pitch-for-start-ups.md
-      - business-basics/identifying-and-evaluating-a-business-opportunity.md
       - business-basics/introduction-to-entrepreneurship.md
       - business-basics/ideation-and-market-validation.md
       - business-basics/business-and-market-research.md
@@ -19,6 +17,6 @@ collections:
       - all-things-financial-and-legal/.keep
       - all-things-financial-and-legal/test.md
       - launched-and-stay-on-course/.keep
-      - launched-and-stay-on-course/test.md
+      - launched-and-stay-on-course/building-a-successful-start-up-team.md
       - venturing-beyond-singapore/.keep
       - venturing-beyond-singapore/test-page.md

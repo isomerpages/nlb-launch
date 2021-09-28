@@ -1,0 +1,6 @@
+collections:
+  bb-ideation-market-validation:
+    output: true
+    order:
+      - identifying-and-evaluating-a-business-opportunity.md
+      - five-steps-to-validate-your-business-idea.md

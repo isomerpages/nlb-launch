@@ -1,8 +1,8 @@
 ---
 title: Identifying and Evaluating a Business Opportunity
-permalink: /business-builder/basics/identify-evaluate-opp
-third_nav_title: Business Basics
+permalink: /business-builder/basics/ideation/id-evaluate-opp
 ---
+
 # Identifying and Evaluating a Business Opportunity
 
 Discovering new business opportunities may be exciting, but not all ideas are worth the effort. A successful business largely depends on recognising and choosing the right – and meaningful – business opportunity to pursue. So how should you identify and evaluate if a business opportunity is the right fit for you? 
