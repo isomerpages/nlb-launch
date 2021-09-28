@@ -1,6 +1,6 @@
 title: Launch - Business Resource Centre
-url: "https://launch.nlb.gov.sg"
-favicon: /images/favicon-nlb.ico
+url: https://launch.nlb.gov.sg
+favicon: /images/icons/Launch_Logo_Condensed_RGB_Primary.svg
 colors:
   primary-color: "#284EEA"
   secondary-color: "#284EEA"
@@ -54,3 +54,4 @@ staging: https://nlb-launch-staging.netlify.app
 prod: https://nlb-launch-prod.netlify.app
 is_government: true
 linkedin-insights: ""
+shareicon: /images/Launch_Logo_RGB_Primary.png
