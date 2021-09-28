@@ -3,31 +3,14 @@ title: Contents
 permalink: /business-builder/plan/
 third_nav_title: Developing A Business Plan
 ---
+# Contents
 
-# Header 1
-## Header 2
-### Header 3
-
-<div class="bitstream">
-	 Bitstream test text
-	</div>
-
-<div class="stratos">
-	 Stratos test text
-	</div>
-
-abcde
-
-<div style="font-family:stratos, Times New Roman">
-	   Stratos regular
-</div>
-
-<div style= "font-family:Bitstream, Impact">
-	   Stratos light
-</div>
-
-<div style="font-family:stratos, Arial Narrow">
-	   Stratos medium
-</div>
-	
-end test
+1. What is a business plan?*
+2. How to write a great business plan*
+3. Overview of business models and planning*
+4. Brick and mortar vs. e-commerce/ omnichannel 
+5. Types of e-commerce business models 
+6. How to avoid business planning mistakes
+7. Business plan FAQ
+8. Business models and pricing
+9. Starting a business from scratch
