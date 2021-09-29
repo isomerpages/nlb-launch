@@ -9,6 +9,19 @@ sections:
   - hero:
       title: Let's take the next step, together
       background: /images/hero-banner.png
+      dropdown:
+        title: Learn more about...
+        options:
+          - title: Starting a Business
+            url: /business-builder/
+          - title: Finding a Job
+            url: /career-builder/find/
+          - title: Switching Careers
+            url: /career-builder/switch/
+          - title: Upskilling
+            url: /career-builder/upskill/
+          - title: Thriving at Work
+            url: /career-builder/thrive/
   - infobar:
       title: Thinking about learning a new skill?
       subtitle: Need new ideas?
@@ -23,7 +36,7 @@ sections:
       description: of resource guides, directories, e-books, databases and articles to
         point you in the right direction
       button: Explore Content
-      url: /nlb-resources/print-and-digital-resources/test
+      url: /resources/
       image: /images/icons/Books-01.png
       alt: Image alt text
   - infopic:
@@ -32,19 +45,20 @@ sections:
       description: No matter what stage your business is at, we have the resources and
         tools to take it to the next level.
       button: Get Started
-      url: /business-builder/getting-started/test
+      url: /business-builder/
       image: /images/icons/Database-01.png
       alt: Business Builder
   - infopic:
-      title: Skills & Training Advisory
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Career Builder
+      subtitle: Skills and Training Advisory
+      description: Find ways to grow and accelerate your career
+      button: Find out more
       image: /images/icons/Library-Onsite-01.png
       alt: Skills & Training
+      url: /career-builder/find/
   - infopic:
       title: Workshops & Programmes
-      subtitle: Infopic Subtitle
+      subtitle: Free for all
       description: Keep an eye out for workshops, webinars and programmes from our partners.
       button: View Calendar
       url: /programmes/event-calendar

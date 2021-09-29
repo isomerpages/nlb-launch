@@ -298,7 +298,7 @@ $desktop: 960px + (2 * $gap) !default;
   border-bottom: 2px solid $secondary;
 }
 
-// Columns for cards
+// Columns for one-third cards
 
 .one-third-column {
     display: flex;
@@ -330,6 +330,27 @@ $desktop: 960px + (2 * $gap) !default;
   position: absolute;
   top: 0%;
   left: 0%;
+}
+
+//  Columns for one-half cards
+
+.one-half-column {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 400px;
+    height: 300px;
+    padding: 2px;
+    margin: 0.5rem;
+}
+
+.one-half-column:hover .image {
+  opacity: 0;
+}
+
+.one-half-column:hover .middle {
+  opacity: 1;
 }
 
 // text block //
