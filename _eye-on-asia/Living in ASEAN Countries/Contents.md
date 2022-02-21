@@ -1,9 +1,11 @@
 ---
-title: Living in ASEAN Countries
+title: Contents
 permalink: /eoa/living-in-asean/
 breadcrumb: Living in ASEAN Countries
+third_nav_title: Living in ASEAN Countries
 description: ""
 ---
+
 <img src="/images/eoa/asean-living/Living in ASEAN.jpg" alt="ASEAN overview banner" style="width:800px;" />
 
 Each ASEAN country has its history, language and dynamism. Understand the way of life, customs, laws and infrastructure of each ASEAN country through our curated resources.
