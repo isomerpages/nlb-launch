@@ -49,13 +49,14 @@ sections:
       image: /images/icons/Database-01.png
       alt: Business Builder
   - infopic:
-      title: Career Builder
-      subtitle: Skills and Training Advisory
-      description: Find ways to grow and accelerate your career
-      button: Find out more
-      image: /images/icons/Library-Onsite-01.png
-      alt: Skills & Training
-      url: /career-builder/find/
+      title: Eye on Asia
+      subtitle: Discover Asia's Opportunities
+      description: Navigate the growth opportunities to Asia. Learn about the region
+        and explore internationalisation opportunities
+      button: Know, Share, Go
+      image: /images/eoa/navigation/logo-eoa.png
+      alt: Eye on Asia
+      url: /eoa/
   - infopic:
       title: Workshops & Programmes
       subtitle: Free for all
