@@ -1,9 +1,11 @@
 ---
 title: Eye on Asia
-permalink: /business-builder/beyondsg/eyeonasia
+permalink: /eoa/
 description: ""
-third_nav_title: Venturing Beyond Singapore
 ---
+
+
+
 <img src="/images/eoa/navigation/logo-eoa.png" style="width:290px; height:auto;">
 
 Navigate the shift of growth opportunities to Asia with Eye on Asia’s curated programmes and resources. Tap into the insights of professionals who have ventured into the region.

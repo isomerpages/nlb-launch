@@ -2,6 +2,7 @@ collections:
   eye-on-asia:
     output: true
     order:
+      - Eye on Asia.md
       - Living in ASEAN Countries/.keep
       - Living in ASEAN Countries/Living in ASEAN Countries.md
       - Living in ASEAN Countries/Transportation in Brunei.md
