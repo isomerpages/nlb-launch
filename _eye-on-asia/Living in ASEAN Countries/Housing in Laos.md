@@ -2,6 +2,7 @@
 title: Housing in Laos
 permalink: /eoa/living-in-asean/laos-housing
 breadcrumb: Housing in Laos
+third_nav_title: Living in ASEAN Countries
 description: ""
 ---
 

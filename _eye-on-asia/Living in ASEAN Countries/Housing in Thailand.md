@@ -2,6 +2,7 @@
 title: Housing in Thailand
 permalink: /eoa/living-in-asean/thai-housing
 breadcrumb: Housing in Thailand
+third_nav_title: Living in ASEAN Countries
 description: ""
 ---
 

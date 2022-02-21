@@ -2,6 +2,7 @@
 title: Financial services, banking and payment systems in Thailand
 permalink: /eoa/living-in-asean/thai-finance
 breadcrumb: Financial services, banking and payment systems in Thailand
+third_nav_title: Living in ASEAN Countries
 description: ""
 ---
 
