@@ -1,0 +1,4 @@
+collections:
+  eoa-pages:
+    output: true
+    order: []
