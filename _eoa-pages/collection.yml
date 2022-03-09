@@ -1,4 +1,5 @@
 collections:
   eoa-pages:
     output: true
-    order: []
+    order:
+      - Living in ASEAN Countries/.keep
