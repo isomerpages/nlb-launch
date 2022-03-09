@@ -2,6 +2,8 @@ collections:
   eoa-pages:
     output: true
     order:
+      - Working in ASEAN Countries/.keep
+      - Overview of ASEAN Countries/.keep
       - Living in ASEAN Countries/.keep
       - Living in ASEAN Countries/Transportation in Brunei.md
       - Living in ASEAN Countries/Customs, costumes & etiquette in Brunei.md
