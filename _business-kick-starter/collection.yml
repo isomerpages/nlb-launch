@@ -1,5 +1,5 @@
 collections:
-  business-builder:
+  business-kick-starter:
     output: true
     order:
       - contents.md
