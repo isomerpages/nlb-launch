@@ -13,12 +13,20 @@ Focusing on ASEAN countries, China and India including emerging cities, you will
 
 Look out also for [programmes](#events) with our partners to gain insights from entrepreneurs and people who have lived and worked abroad.
 
-| <img src="/images/eoa/navigation/ASEAN-banner.jpg" alt="ASEAN" style="height:75px; width:auto;">| <img src="/images/eoa/navigation/CHINA-banner.jpg" alt="China" style="height:75px; width:auto;">| <img src="/images/eoa/navigation/INDIA-banner.jpg" alt="India" style="height:75px; width:auto;">|
-|---|---|---|
-|Overview of ASEAN Countries|Overview of China|Overview of India|
-||Selected China municipalities |Selected India states|
-|[Living in ASEAN Countries](/eoa/living-in-asean/)|Living in China|Living in India|
-|Working in ASEAN Countries |Working in China|Working in India|
+| <img src="/images/eoa/navigation/ASEAN-banner.jpg" alt="ASEAN" style="height:75px; width:auto;">| <img src="/images/eoa/navigation/CHINA-banner.jpg" alt="China" style="height:75px; width:auto;">|
+|---|---|
+|Overview of ASEAN Countries|Overview of China|
+||Selected China municipalities|
+|[Living in ASEAN Countries](/eoa/living-in-asean/)|Living in China|
+|Working in ASEAN Countries |Working in China|
+
+| <img src="/images/eoa/navigation/INDIA-banner.jpg" alt="India" style="height:75px; width:auto;">| <img src="/images/eoa/navigation/central-asia-banner.jpg" alt="Central Asia" style="height:75px; width:auto;"> |
+|----------|----------|
+|Overview of India|[Central Asia](/eoa/centralasia/)|
+|Selected India states|[United Arab Emirates](/eoa/uae/)|
+|Living in India| |
+|Working in India |
+
 
 <br>
 
