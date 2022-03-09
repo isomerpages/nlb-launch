@@ -3,9 +3,6 @@ title: Eye on Asia
 permalink: /eoa/
 description: ""
 ---
-
-
-
 <img src="/images/eoa/navigation/logo-eoa.png" style="width:290px; height:auto;">
 
 Navigate the shift of growth opportunities to Asia with Eye on Asia’s curated programmes and resources. Tap into the insights of professionals who have ventured into the region.
@@ -117,7 +114,7 @@ We thank our partners for contributing to the initiative by allowing us access t
 	</div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="https://www.theyoungseakers.com/"><img src="/images/eoa/partners/TheYoungSEAkers Logo Blue.png" alt="The Young SEAkers" style="height:100px; width:auto;"></a>
+			<a href="https://www.theyoungseakers.com/"><img src="/images/eoa/partners/TheYoungSEAkers Logo.png" alt="The Young SEAkers" style="height:100px; width:auto;"></a>
 		</div>
 				<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="https://www.uaesbc.com/"><img src="/images/eoa/partners/UAESBC_new2.jpg" alt="UAE Singapore Business Council"></a>
