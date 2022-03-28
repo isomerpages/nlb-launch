@@ -32,7 +32,7 @@ Look out also for [programmes](#events) with our partners to gain insights from 
 
 <div class="row is-multiline">
 		<div class="col is-half-tablet padding--bottom--lg">
-			<a class="project-link" href="/eoa/events/" name="events">
+			<a class="project-link" href="/eoa/past-events/" name="events">
 				<img class="project-image" src="/images/eoa/navigation/events-card.jpg" alt="Events">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
