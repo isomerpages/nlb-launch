@@ -1,0 +1,27 @@
+collections:
+  asean-know-overview:
+    output: true
+    order:
+      - asean-a-regional-profile.md
+      - asean-50-historic-milestones.md
+      - regional-newspapers.md
+      - looking-to-asia-with-a-global-mindset.md
+      - brunei-a-country-profile.md
+      - cambodia-a-country-profile.md
+      - indonesia-a-country-profile.md
+      - lao-pdr-a-country-profile.md
+      - malaysia-a-country-profile.md
+      - myanmar-a-country-profile.md
+      - philippines-a-country-profile.md
+      - surabaya-a-city-profile.md
+      - thailand-a-country-profile.md
+      - vietnam-a-country-profile.md
+      - yangon-a-city-profile.md
+      - discovering-yangon.md
+      - tourism-development-in-asean-countries.md
+      - society-in-asean-countries.md
+      - asean-countries-a-look-at-technology-and-innovation.md
+      - economic-developments-in-asean-countries.md
+      - international-and-regional-economic-cooperation-in-asean-countries.md
+      - asean-countries-political-structures.md
+      - asean-countries-biographies-of-selected-key-political-leaders.md
