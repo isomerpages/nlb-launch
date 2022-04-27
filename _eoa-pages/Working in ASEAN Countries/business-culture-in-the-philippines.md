@@ -6,7 +6,7 @@ breadcrumb: 'Business culture in the Philippines'
 ---
 
 
-<img src="/images/asean-working/ASEAN-Philippines-Business-Culture.jpg" alt="Business culture Philippines banner" style="width:800px;" />
+<img src="\images\eoa\Asean Working\ASEAN-Philippines-Business-Culture.jpg" alt="Business culture Philippines banner" style="width:800px;" />
 
 This is a selection of resources on business culture in the Philippines available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list.
 

@@ -6,7 +6,7 @@ breadcrumb: 'Business culture in Myanmar'
 ---
 
 
-<img src="/images/asean-working/ASEAN-Myanmar-Business-Culture.jpg" alt="Business culture Myanmar banner" style="width:800px;" />
+<img src="\images\eoa\Asean Working\ASEAN-Myanmar-Business-Culture.jpg" alt="Business culture Myanmar banner" style="width:800px;" />
 
 This is a selection of resources on business culture in Myanmar available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list.
 

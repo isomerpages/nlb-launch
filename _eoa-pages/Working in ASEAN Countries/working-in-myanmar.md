@@ -6,7 +6,7 @@ breadcrumb: 'Working in Myanmar'
 ---
 
 
-<img src="/images/asean-working/ASEAN-Myanmar-Working.jpg" alt="Working in Myanmar banner" style="width:800px;" />
+<img src="\images\eoa\Asean Working\ASEAN-Myanmar-Working.jpg" alt="Working in Myanmar banner" style="width:800px;" />
 
 This is a selection of resources on working in Myanmar available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list.
 

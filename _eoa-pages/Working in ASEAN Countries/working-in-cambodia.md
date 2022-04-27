@@ -6,7 +6,7 @@ breadcrumb: 'Working in Cambodia'
 ---
 
 
-<img src="/images/asean-working/ASEAN-Cambodia-Working.jpg" alt="Working in Cambodia banner" style="width:800px;" />
+<img src="\images\eoa\Asean Working\ASEAN-Cambodia-Working.jpg" alt="Working in Cambodia banner" style="width:800px;" />
 
 This is a selection of resources on working in Cambodia available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list.
 

@@ -6,7 +6,7 @@ breadcrumb: 'Business culture in Laos'
 ---
 
 
-<img src="/images/asean-working/ASEAN-Laos-Business-Culture.jpg" alt="Business culture Laos banner" style="width:800px;" />
+<img src="\images\eoa\Asean Working\ASEAN-Laos-Business-Culture.jpg" alt="Business culture Laos banner" style="width:800px;" />
 
 This is a selection of resources on business culture in Laos available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list.
 

@@ -6,7 +6,7 @@ breadcrumb: 'Working in the Philippines'
 ---
 
 
-<img src="/images/asean-working/ASEAN-Philippines-Working.jpg" alt="Working in Philippines banner" style="width:800px;" />
+<img src="\images\eoa\Asean Working\ASEAN-Philippines-Working.jpg" alt="Working in Philippines banner" style="width:800px;" />
 
 This is a selection of resources on working in the Philippines available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list.
 

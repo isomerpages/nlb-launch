@@ -6,7 +6,7 @@ breadcrumb: 'Working in Malaysia'
 ---
 
 
-<img src="/images/asean-working/ASEAN-Malaysia-Working.jpg" alt="Working in Malaysia banner" style="width:800px;" />
+<img src="\images\eoa\Asean Working\ASEAN-Malaysia-Working.jpg" alt="Working in Malaysia banner" style="width:800px;" />
 
 This is a selection of resources on working in Malaysia available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list.
 

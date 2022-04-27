@@ -6,7 +6,7 @@ breadcrumb: 'Business culture in Thailand'
 ---
 
 
-<img src="/images/asean-working/ASEAN-Thailand-Business-Culture.jpg" alt="Business culture Thailand banner" style="width:800px;" />
+<img src="\images\eoa\Asean Working\ASEAN-Thailand-Business-Culture.jpg" alt="Business culture Thailand banner" style="width:800px;" />
 
 This is a selection of resources on business culture in Thailand available from the [NLB catalogue](http://catalogue.nlb.gov.sg/) or the Internet.  It is not meant to be an exhaustive list.
 

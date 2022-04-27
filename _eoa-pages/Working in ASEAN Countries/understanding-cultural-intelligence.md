@@ -6,7 +6,7 @@ breadcrumb: 'Understanding cultural intelligence'
 ---
 
 
-<img src="\images\asean-working\cultural-intelligence-2.jpg" alt="cultural intelligence" style="width:800px;" />
+<img src="\images\eoa\Asean Working\cultural-intelligence-2.jpg" alt="cultural intelligence" style="width:800px;" />
 
 This is a selection of resources on cultural intelligence contributed by Nanyang Technological University’s Nanyang Business School and is not meant to be an exhaustive list.  Additional information can also be found at Nanyang Business School’s Center for Leadership & Cultural Intelligence: <http://www.clci.ntu.edu.sg/>{:target="_blank"}
 

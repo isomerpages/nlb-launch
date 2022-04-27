@@ -6,7 +6,7 @@ breadcrumb: 'Listen - Discussing business in Southeast Asia'
 ---
 
 
-<img src="\images\asean-working\Discussing-Business-in-Southeast-Asia.jpg" alt="discussing business" style="width:800px;" />
+<img src="\images\eoa\Asean Working\Discussing-Business-in-Southeast-Asia.jpg" alt="discussing business" style="width:800px;" />
 
 **This extract is reproduced with permission:**
 
