@@ -1,9 +1,10 @@
 ---
-title: 'Discovering Nanjing'
-permalink: /china/know/china-municipalities-provinces/nanjing-guide/
-breadcrumb: 'Discovering Nanjing'
-
+title: Discovering Nanjing
+permalink: /eoa/selected-china/nanjing-guide/
+breadcrumb: Discovering Nanjing
+description: ""
 ---
+
 
 
 <img src="\images\eoa\china selected\nanjing-guide.jpg" alt="nanjing guide banner" style="width:800px;" />

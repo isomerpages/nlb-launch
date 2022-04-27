@@ -1,9 +1,10 @@
 ---
-title: 'Discovering Liaoning'
-permalink: /china/know/china-municipalities-provinces/liaoning-guide/
-breadcrumb: 'Discovering Liaoning'
-
+title: Discovering Liaoning
+permalink: /eoa/selected-china/liaoning-guide/
+breadcrumb: Discovering Liaoning
+description: ""
 ---
+
 
 
 <img src="\images\eoa\china selected\liaoning-guide.jpg" alt="liaoning guide banner" style="width:800px;" />

@@ -1,9 +1,10 @@
 ---
-title: 'Discovering Shandong'
-permalink: /china/know/china-municipalities-provinces/shandong-guide/
-breadcrumb: 'Discovering Shandong'
-
+title: Discovering Shandong
+permalink: /eoa/selected-china/shandong-guide/
+breadcrumb: Discovering Shandong
+description: ""
 ---
+
 
 
 <img src="\images\eoa\china selected\shandong-guide.jpg" alt="shandong guide banner" style="width:800px;" />

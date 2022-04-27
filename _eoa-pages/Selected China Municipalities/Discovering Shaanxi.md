@@ -1,9 +1,10 @@
 ---
-title: 'Discovering Shaanxi'
-permalink: /china/know/china-municipalities-provinces/shaanxi-guide/
-breadcrumb: 'Discovering Shaanxi'
-
+title: Discovering Shaanxi
+permalink: /eoa/selected-china/shaanxi-guide/
+breadcrumb: Discovering Shaanxi
+description: ""
 ---
+
 
 
 <img src="\images\eoa\china selected\shaanxi-guide.jpg" alt="shaanxi guide banner" style="width:800px;" />

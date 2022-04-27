@@ -1,9 +1,10 @@
 ---
-title: 'Guangdong - A profile'
-permalink: /china/know/china-municipalities-provinces/guangdong-profile/
-breadcrumb: 'Guangdong - A profile'
-
+title: Guangdong A profile
+permalink: /eoa/selected-china/guangdong-profile/
+breadcrumb: Guangdong - A profile
+description: ""
 ---
+
 
 
 <img src="\images\eoa\china selected\guangdong-profile.jpg" alt="guangdong profile banner" style="width:800px;" />

@@ -1,9 +1,10 @@
 ---
-title: 'Jiangsu - A profile'
-permalink: /china/know/china-municipalities-provinces/jiangsu-profile/
-breadcrumb: 'Jiangsu - A profile'
-
+title: Jiangsu A profile
+permalink: /eoa/selected-china/jiangsu-profile/
+breadcrumb: Jiangsu - A profile
+description: ""
 ---
+
 
 
 <img src="\images\eoa\china selected\jiangsu-profile.jpg" alt="jiangsu profile banner" style="width:800px;" />

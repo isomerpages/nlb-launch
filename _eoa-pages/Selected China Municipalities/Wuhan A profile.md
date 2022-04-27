@@ -1,8 +1,10 @@
 ---
-title: Wuhan - A profile
-permalink: /china/know/china-municipalities-provinces/wuhan-profile/
+title: Wuhan A profile
+permalink: /eoa/selected-china/wuhan-profile/
 breadcrumb: Wuhan - A profile
+description: ""
 ---
+
 <img src="\images\eoa\china selected\wuhan-profile.jpg" alt="wuhan profile banner" style="width:800px;" />
 
 This article provides an overview of Wuhan for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 

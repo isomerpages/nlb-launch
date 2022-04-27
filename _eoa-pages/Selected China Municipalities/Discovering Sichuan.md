@@ -1,9 +1,10 @@
 ---
-title: 'Discovering Sichuan'
-permalink: /china/know/china-municipalities-provinces/sichuan-guide/
-breadcrumb: 'Discovering Sichuan'
-
+title: Discovering Sichuan
+permalink: /eoa/selected-china/sichuan-guide/
+breadcrumb: Discovering Sichuan
+description: ""
 ---
+
 
 
 <img src="\images\eoa\china selected\sichuan-guide.jpg" alt="sichuan guide banner" style="width:800px;" />

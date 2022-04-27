@@ -1,8 +1,10 @@
 ---
-title: Sichuan - A profile
-permalink: /china/know/china-municipalities-provinces/sichuan-profile/
+title: Sichuan A profile
+permalink: /eoa/selected-china/sichuan-profile/
 breadcrumb: Sichuan - A profile
+description: ""
 ---
+
 <img src="\images\eoa\china selected\sichuan-profile.jpg" alt="sichuan profile banner" style="width:800px;" />
 
 This article provides an overview of Sichuan for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 

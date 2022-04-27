@@ -1,9 +1,10 @@
 ---
-title: 'Discovering Guangdong'
-permalink: /china/know/china-municipalities-provinces/guangdong-guide/
-breadcrumb: 'Discovering Guangdong'
-
+title: Discovering Guangdong
+permalink: /eoa/selected-china/guangdong-guide/
+breadcrumb: Discovering Guangdong
+description: ""
 ---
+
 
 
 <img src="\images\eoa\china selected\guangdong-guide.jpg" alt="guangdong guide banner" style="width:800px;" />

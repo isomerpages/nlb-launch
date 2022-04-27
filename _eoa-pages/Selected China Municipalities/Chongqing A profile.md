@@ -1,9 +1,10 @@
 ---
-title: 'Chongqing - A profile'
-permalink: /china/know/china-municipalities-provinces/chongqing-profile/
-breadcrumb: 'Chongqing - A profile'
-
+title: Chongqing A profile
+permalink: /eoa/selected-china/chongqing-profile/
+breadcrumb: Chongqing - A profile
+description: ""
 ---
+
 
 
 <img src="\images\eoa\china selected\chongqing-profile.jpg" alt="chongqing profile banner" style="width:800px;" />

@@ -1,9 +1,10 @@
 ---
-title: 'Discovering Jiangsu'
-permalink: /china/know/china-municipalities-provinces/jiangsu-guide/
-breadcrumb: 'Discovering Jiangsu'
-
+title: Discovering Jiangsu
+permalink: /eoa/selected-china/jiangsu-guide/
+breadcrumb: Discovering Jiangsu
+description: ""
 ---
+
 
 
 <img src="\images\eoa\china selected\jiangsu-guide.jpg" alt="jiangsu guide banner" style="width:800px;" />

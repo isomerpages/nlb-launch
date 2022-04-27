@@ -1,8 +1,10 @@
 ---
-title: Tianjin - A profile
-permalink: /china/know/china-municipalities-provinces/tianjin-profile/
+title: Tianjin A profile
+permalink: /eoa/selected-china/tianjin-profile/
 breadcrumb: Tianjin - A profile
+description: ""
 ---
+
 <img src="\images\eoa\china selected\tianjin-profile.jpg" alt="tianjin profile banner" style="width:800px;" />
 
 This article provides an overview of Tianjin for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 

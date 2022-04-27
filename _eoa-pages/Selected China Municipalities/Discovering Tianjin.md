@@ -1,9 +1,10 @@
 ---
-title: 'Discovering Tianjin'
-permalink: /china/know/china-municipalities-provinces/tianjin-guide/
-breadcrumb: 'Discovering Tianjin'
-
+title: Discovering Tianjin
+permalink: /eoa/selected-china/tianjin-guide/
+breadcrumb: Discovering Tianjin
+description: ""
 ---
+
 
 
 <img src="\images\eoa\china selected\tianjin-guide.jpg" alt="tianjin guide banner" style="width:800px;" />

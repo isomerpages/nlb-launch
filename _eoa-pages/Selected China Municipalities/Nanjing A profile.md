@@ -1,9 +1,10 @@
 ---
-title: 'Nanjing - A profile'
-permalink: /china/know/china-municipalities-provinces/nanjing-profile/
-breadcrumb: 'Nanjing - A profile'
-
+title: Nanjing A profile
+permalink: /eoa/selected-china/nanjing-profile/
+breadcrumb: Nanjing - A profile
+description: ""
 ---
+
 
 
 <img src="\images\eoa\china selected\nanjing-profile.jpg" alt="nanjing profile banner" style="width:800px;" />

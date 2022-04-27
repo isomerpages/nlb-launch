@@ -1,9 +1,10 @@
 ---
-title: 'Discovering Chongqing'
-permalink: /china/know/china-municipalities-provinces/chongqing-guide/
-breadcrumb: 'Discovering Chongqing'
-
+title: Discovering Chongqing
+permalink: /eoa/selected-china/chongqing-guide/
+breadcrumb: Discovering Chongqing
+description: ""
 ---
+
 
 
 <img src="\images\eoa\china selected\chongqing-guide.jpg" alt="chongqing guide banner" style="width:800px;" />

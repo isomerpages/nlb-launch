@@ -1,9 +1,10 @@
 ---
-title: 'Discovering Wuhan'
-permalink: /china/know/china-municipalities-provinces/wuhan-guide/
-breadcrumb: 'Discovering Wuhan'
-
+title: Discovering Wuhan
+permalink: /eoa/selected-china/wuhan-guide/
+breadcrumb: Discovering Wuhan
+description: ""
 ---
+
 
 
 <img src="\images\eoa\china selected\wuhan-guide.jpg" alt="wuhan guide banner" style="width:800px;" />

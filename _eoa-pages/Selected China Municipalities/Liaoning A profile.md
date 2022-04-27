@@ -1,9 +1,10 @@
 ---
-title: 'Liaoning - A profile'
-permalink: /china/know/china-municipalities-provinces/liaoning-profile/
-breadcrumb: 'Liaoning - A profile'
-
+title: Liaoning A profile
+permalink: /eoa/selected-china/liaoning-profile/
+breadcrumb: Liaoning - A profile
+description: ""
 ---
+
 
 
 <img src="\images\eoa\china selected\liaoning-profile.jpg" alt="liaoning profile banner" style="width:800px;" />

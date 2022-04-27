@@ -1,9 +1,10 @@
 ---
-title: 'Selected China municipalities and provinces - An overview'
-permalink: /china/know/china-municipalities-provinces/overview/
-breadcrumb: 'Selected China municipalities and provinces - An overview'
-
+title: Selected China municipalities and provinces An overview
+permalink: /eoa/selected-china/overview/
+breadcrumb: Selected China municipalities and provinces - An overview
+description: ""
 ---
+
 
 
 <img src="\images\eoa\china selected\overview-selected-china.jpg" alt="selected china banner" style="width:800px;" />

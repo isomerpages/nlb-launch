@@ -1,8 +1,10 @@
 ---
-title: Shandong - A profile
-permalink: /china/know/china-municipalities-provinces/shandong-profile/
+title: Shandong A profile
+permalink: /eoa/selected-china/shandong-profile/
 breadcrumb: Shandong - A profile
+description: ""
 ---
+
 <img src="\images\eoa\china selected\shandong-profile.jpg" alt="shandong profile banner" style="width:800px;" />
 
 This article provides an overview of Shandong for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
