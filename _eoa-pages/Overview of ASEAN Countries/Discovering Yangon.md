@@ -7,7 +7,7 @@ description: ""
 
 
 
-<img src="/images/asean-countries/Discovering Yangon iso.jpg" alt="Yangon guide banner" style="width:800px;" />
+<img src="\images\eoa\Asean Overview\Discovering Yangon iso.jpg" alt="Yangon guide banner" style="width:800px;" />
 
 This is a selection of resources on Discovering Yangon available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 

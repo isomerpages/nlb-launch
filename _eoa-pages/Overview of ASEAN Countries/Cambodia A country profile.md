@@ -7,7 +7,7 @@ description: ""
 
 
 
-<img src="/images/asean-countries/Cambodia snapshot cover.jpg" alt="Cambodia snapshot banner" style="width:800px;" />
+<img src="\images\eoa\Asean Overview\Cambodia snapshot cover.jpg" alt="Cambodia snapshot banner" style="width:800px;" />
 
 This article provides an overview of Cambodia for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 

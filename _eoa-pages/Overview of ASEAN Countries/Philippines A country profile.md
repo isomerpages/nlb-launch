@@ -7,7 +7,7 @@ description: ""
 
 
 
-<img src="/images/asean-countries/Philippines snapshot cover iso.jpg" alt="Philippines snapshot banner" style="width:800px;" />
+<img src="\images\eoa\Asean Overview\Philippines snapshot cover iso.jpg" alt="Philippines snapshot banner" style="width:800px;" />
 
 This is a profile of the Philippines that may be useful for those keen to live and work there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 

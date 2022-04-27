@@ -5,12 +5,7 @@ breadcrumb: Surabaya - A city profile
 description: ""
 ---
 
-
-<img src="/images/asean-countries/Surabaya-snapshot-cover.jpg" alt="Surabaya snapshot banner" style="width:800px;" />
-
-<!-- https://www.istockphoto.com/photo/aerial-view-of-cityscape-at-night-with-vibrant-lights-surabaya-gm970142094-264349522?utm_campaign=srp_photos_noresults&utm_content=https%3A%2F%2Fwww.pexels.com%2Fsearch%2FSurabaya%2F&utm_medium=affiliate&utm_source=pexels&utm_term=surabaya -->
-
-<!-- https://www.istockphoto.com/photo/cityscape-surabya-inodnesia-gm901609992-248734338 -->
+<img src="\images\eoa\Asean Overview\Surabaya-snapshot-cover.jpg" alt="Surabaya snapshot banner" style="width:800px;" />
 
 This article provides an overview of Surabaya for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
 

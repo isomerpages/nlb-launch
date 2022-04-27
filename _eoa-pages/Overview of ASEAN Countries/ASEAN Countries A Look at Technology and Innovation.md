@@ -5,7 +5,7 @@ breadcrumb: ASEAN Countries - A Look at Technology and Innovation
 description: ""
 ---
 
-<img src="/images/asean-countries/Technology-and-innovation-in-ASEAN.jpg" alt="technology and innovation asean banner" style="width:800px;" />
+<img src="\images\eoa\Asean Overview\Technology-and-innovation-in-ASEAN.jpg" alt="technology and innovation asean banner" style="width:800px;" />
 
 This is a selection of resources on technology and innovation in ASEAN countries available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 

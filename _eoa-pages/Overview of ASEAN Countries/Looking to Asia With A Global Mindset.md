@@ -6,7 +6,7 @@ description: ""
 ---
 
 
-<img src="\images\asean-countries\Looking-to-Asia.png" alt="Looking to Asia" style="width:800px;" />
+<img src="\images\eoa\Asean Overview\Looking-to-Asia.png" alt="Looking to Asia" style="width:800px;" />
 
 This is a selection of books on ASEAN (Mekong Region), the United Arab Emirates (UAE), China and India, curated for the Eye on Asia Forum 2021 on 3 and 4 March. It is not meant to be an exhaustive list. More information about the forum can be found at the [Eye on Asia Events](https://www.eyeonasia.gov.sg/eoa-events/){:target="_blank"} page.
 

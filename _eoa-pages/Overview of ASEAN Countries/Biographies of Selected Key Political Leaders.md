@@ -5,7 +5,7 @@ breadcrumb: ASEAN Countries - Biographies of Selected Key Political Leaders
 description: ""
 ---
 
-<img src="/images/asean-countries/ASEAN-countries-Biographies.jpg" alt="ASEAN biographies banner" style="width:800px;" />
+<img src="\images\eoa\Asean Overview\ASEAN-countries-Biographies.jpg" alt="ASEAN biographies banner" style="width:800px;" />
 
  This is a selection of resources on key political leaders in ASEAN countries available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
@@ -81,11 +81,11 @@ After his inauguration to a second term in October 2019, Indonesian President Jo
 Retrieved from EBSCOhost business source complete database. (*mylibrary* ID is required to access this database)
 
  <img src="/images/resources/Article 2.jpg" style="width:180px;" />
- 
+
  [**Charismatic Political Leadership and Tun Dr Mahathir Mohamad's Malaysia: Power, Control, Stability and Defence.**](https://eresources.nlb.gov.sg/Main/browse/resource/1049 )
- 
+
 This research analyses historical information, documents, memoirs and articles to better understand Mahathir’s leadership.  Under his leadership, Malaysia made remarkable economic and political progress. He oversaw many innovations and was able to develop the country due to his exceptional leadership qualities. His style and attitude were highly criticized by some and labelled as dictatorial. This stigma did not detract him from the path he considered right for Malaysia.
- 
+
 
 Retrieved from EBSCOhost business source complete database. (*mylibrary* ID is required to access this database)
 

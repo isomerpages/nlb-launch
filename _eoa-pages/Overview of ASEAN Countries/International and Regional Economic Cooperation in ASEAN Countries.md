@@ -5,7 +5,7 @@ breadcrumb: International and Regional Economic Cooperation in ASEAN Countries
 description: ""
 ---
 
-<img src="/images/asean-countries/International-and-regional-economic-cooperation-in-ASEAN-countries.jpg" alt="Economic Coorperation banner" style="width:800px;" />
+<img src="\images\eoa\Asean Overview\International-and-regional-economic-cooperation-in-ASEAN-countries.jpg" alt="Economic Coorperation banner" style="width:800px;" />
 
 This is a selection of resources on international and regional economic cooperation in ASEAN countries available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 

@@ -7,7 +7,7 @@ description: ""
 
 
 
-<img src="/images/asean-countries/Myanmar snapshot cover iso.jpg" alt="Indonesia snapshot banner" style="width:800px;" />
+<img src="\images\eoa\Asean Overview\Myanmar snapshot cover iso.jpg" alt="Indonesia snapshot banner" style="width:800px;" />
 
 This is a profile of Myanmar that may be useful for those keen to live and work there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.
 

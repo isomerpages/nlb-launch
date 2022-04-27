@@ -5,7 +5,7 @@ breadcrumb: Economic Developments in ASEAN Countries
 description: ""
 ---
 
-<img src="/images/asean-countries/Economic-developments-in-ASEAN-countries.jpg" alt="economic developments banner" style="width:800px;" />
+<img src="\images\eoa\Asean Overview\Economic-developments-in-ASEAN-countries.jpg" alt="economic developments banner" style="width:800px;" />
 
 This is a selection of resources on economic developments in ASEAN countries available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
@@ -169,8 +169,8 @@ Retrieved from EBSCOhost business source complete database. (*mylibrary* ID is r
 OECD’s research and analysis concluded that practical, low-cost policies recommended to improve the regulation of ASEAN’s logistics industry will empower existing industry participants and encourage new entrants to identify and take advantage of fresh opportunities and the resulting market efficiencies. In turn, this would benefit businesses and consumers, and ultimately accelerate growth and development across the bloc’s economies.
 
  <img src="/images/resources/Article 1.jpg" style="width:180px;" />
- 
- 
+
+
  [**COVID-19 crisis response in ASEAN Member States
 OECD, 2020**](https://safe.menlosecurity.com/https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-asean-member-states-02f828a2/)
 

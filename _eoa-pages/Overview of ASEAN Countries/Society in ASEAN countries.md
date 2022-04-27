@@ -5,8 +5,8 @@ breadcrumb: Society in ASEAN countries
 description: ""
 ---
 
-<img src="/images/asean-countries/Society-in-ASEAN.jpg" alt="Society in ASEAN banner" style="width:800px;" />
- 
+<img src="\images\eoa\Asean Overview\Society-in-ASEAN.jpg" alt="Society in ASEAN banner" style="width:800px;" />
+
 This is a selection of resources on international and regional economic cooperation in ASEAN countries available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 
 ### **NLB print and digital resources**
@@ -95,7 +95,7 @@ In 2007, a survey was carried out to gauge young people's awareness and attitude
 
 Retrieved from OverDrive. *myLibrary ID* login is required to access this ebook.
 
-	
+
 <img src="/images/book-covers/Brunei-History-Islam-society-and-contemporary-issues.jpg" style="width:180px;" />			
 			
 		
