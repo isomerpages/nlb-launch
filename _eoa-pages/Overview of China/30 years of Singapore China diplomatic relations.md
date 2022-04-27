@@ -1,9 +1,10 @@
 ---
-title: '30 years of Singapore-China diplomatic relations'
-permalink: /china/know/overview-of-china/30-years-of-singapore-china-diplomatic-relations/
-breadcrumb: '30 years of Singapore-China diplomatic relations'
-
+title: 30 years of Singapore China diplomatic relations
+permalink: /eoa/overview-china/30-years-of-singapore-china-diplomatic-relations/
+breadcrumb: 30 years of Singapore-China diplomatic relations
+description: ""
 ---
+
 
 
 <img src="\images\china-overview\SG-China-relations.png" alt="SG-China 30 years diplomatic relations" style="width:800px;" />

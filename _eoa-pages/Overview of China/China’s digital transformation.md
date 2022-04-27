@@ -1,10 +1,11 @@
 ---
-title: 'China’s digital transformation'
-permalink: /china/know/overview-of-china/china-digital-transformation/
-breadcrumb: 'China’s digital transformation'
+title: China’s digital transformation
+permalink: /eoa/overview-china/china-digital-transformation/
+breadcrumb: China’s digital transformation
 image: \images\china-overview\china-digital-transformation.jpg
-
+description: ""
 ---
+
 
 
 <img src="\images\china-overview\china-digital-transformation.jpg" alt="china digital transformation banner" style="width:800px;" />

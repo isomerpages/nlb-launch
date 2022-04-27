@@ -1,10 +1,11 @@
 ---
-title: 'Sustainability and green initiatives in China'
-permalink: /china/know/overview-of-china/sustainability-and-green-initiatives/
-breadcrumb: 'Sustainability and Green Initiatives in China'
+title: Sustainability and green initiatives in China
+permalink: /eoa/overview-china/sustainability-and-green-initiatives/
+breadcrumb: Sustainability and Green Initiatives in China
 image: \images\china-overview\sustainability.jpg
-
+description: ""
 ---
+
 
 
 <img src="\images\china-overview\sustainability.jpg" alt="sustainability banner" style="width:800px;" />

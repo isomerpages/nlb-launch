@@ -1,10 +1,11 @@
 ---
-title: 'Artificial intelligence in China'
-permalink: /china/know/overview-of-china/artificial-intelligence/
-breadcrumb: 'Artificial Intelligence in China'
+title: Artificial intelligence in China
+permalink: /eoa/overview-china/artificial-intelligence/
+breadcrumb: Artificial Intelligence in China
 image: \images\china-overview\artificial-intelligence.jpg
-
+description: ""
 ---
+
 
 
 <img src="\images\china-overview\artificial-intelligence.jpg" alt="artificial intelligence banner" style="width:800px;" />

@@ -1,9 +1,10 @@
 ---
-title: 'Understanding China'
-permalink: /china/know/overview-of-china/understanding-china/
-breadcrumb: 'Understanding China'
-
+title: Understanding China
+permalink: /eoa/overview-china/understanding-china/
+breadcrumb: Understanding China
+description: ""
 ---
+
 
 
 <img src="\images\china-overview\understanding-china.jpg" alt="understanding china banner" style="width:800px;" />

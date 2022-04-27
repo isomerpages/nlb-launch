@@ -1,10 +1,11 @@
 ---
-title: 'Social commerce in China'
-permalink: /china/know/overview-of-china/social-commerce/
-breadcrumb: 'Social Commerce in China'
+title: Social commerce in China
+permalink: /eoa/overview-china/social-commerce/
+breadcrumb: Social Commerce in China
 image: \images\china-overview\social-commerce.jpg
-
+description: ""
 ---
+
 
 
 <img src="\images\china-overview\social-commerce.jpg" alt="social commerce banner" style="width:800px;" />

@@ -1,9 +1,10 @@
 ---
-title: 'Learning about China’s transformation'
-permalink: /china/know/overview-of-china/learning-china-transformation/
-breadcrumb: 'Learning about China’s transformation'
-
+title: Learning about China’s transformation
+permalink: /eoa/overview-china/learning-china-transformation/
+breadcrumb: Learning about China’s transformation
+description: ""
 ---
+
 
 
 <img src="\images\china-overview\china-transformation.jpg" alt="transformation china banner" style="width:800px;" />

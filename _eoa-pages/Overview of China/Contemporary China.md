@@ -1,10 +1,11 @@
 ---
-title: 'Contemporary China'
-permalink: /china/know/overview-of-china/contemporary-china/
-breadcrumb: 'Contemporary China'
+title: Contemporary China
+permalink: /eoa/overview-china/contemporary-china/
+breadcrumb: Contemporary China
 image: \images\china-overview\contemporary-china.jpg
-
+description: ""
 ---
+
 
 
 <img src="\images\china-overview\contemporary-china.jpg" alt="contemporary china banner" style="width:800px;" />

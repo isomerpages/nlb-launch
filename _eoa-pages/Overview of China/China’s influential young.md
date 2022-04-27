@@ -1,10 +1,11 @@
 ---
-title: 'China’s influential young'
-permalink: /china/know/overview-of-china/china-influential-young/
-breadcrumb: 'China’s influential young'
+title: China’s influential young
+permalink: /eoa/overview-china/china-influential-young/
+breadcrumb: China’s influential young
 image: \images\china-overview\china-influential.jpg
-
+description: ""
 ---
+
 
 
 <img src="\images\china-overview\china-influential.jpg" alt="china influential banner" style="width:800px;" />

@@ -1,8 +1,10 @@
 ---
-title: China - A country profile
-permalink: /china/know/overview-of-china/china-a-country-profile/
+title: China A country profile
+permalink: /eoa/overview-china/china-a-country-profile/
 breadcrumb: China - A country profile
+description: ""
 ---
+
 <img src="\images\china-overview\china-profile.jpg" alt="china profile banner" style="width:800px;" />
 
 This article provides an overview of China for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.

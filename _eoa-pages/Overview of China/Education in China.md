@@ -1,10 +1,11 @@
 ---
-title: 'Education in China'
-permalink: /china/know/overview-of-china/education/
-breadcrumb: 'Education in China'
+title: Education in China
+permalink: /eoa/overview-china/education/
+breadcrumb: Education in China
 image: \images\china-overview\education.jpg
-
+description: ""
 ---
+
 
 
 <img src="\images\china-overview\education.jpg" alt="education banner" style="width:800px;" />

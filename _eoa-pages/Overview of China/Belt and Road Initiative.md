@@ -1,10 +1,11 @@
 ---
-title: 'Belt and Road Initiative'
-permalink: /china/know/overview-of-china/belt-road-initiatives/
-breadcrumb: 'Belt and Road Initiative'
+title: Belt and Road Initiative
+permalink: /eoa/overview-china/belt-road-initiatives/
+breadcrumb: Belt and Road Initiative
 image: \images\china-overview\belt-and-road-initiative.jpg
-
+description: ""
 ---
+
 
 
 <img src="\images\china-overview\belt-and-road-initiative.jpg" alt="belt road banner" style="width:800px;" />

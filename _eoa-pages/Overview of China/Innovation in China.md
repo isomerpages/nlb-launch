@@ -1,9 +1,10 @@
 ---
-title: 'Innovation in China'
-permalink: /china/know/overview-of-china/innovation-in-china/
-breadcrumb: 'Innovation in China'
-
+title: Innovation in China
+permalink: /eoa/overview-china/innovation-in-china/
+breadcrumb: Innovation in China
+description: ""
 ---
+
 
 
 <img src="\images\china-overview\innovation-in-china.jpg" alt="innovation china banner" style="width:800px;" />

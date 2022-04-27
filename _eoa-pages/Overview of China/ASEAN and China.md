@@ -1,10 +1,11 @@
 ---
-title: 'ASEAN and China'
-permalink: /china/know/overview-of-china/asean-and-china/
-breadcrumb: 'ASEAN and China'
+title: ASEAN and China
+permalink: /eoa/overview-china/asean-and-china/
+breadcrumb: ASEAN and China
 image: \images\china-overview\asean-and-china.jpg
-
+description: ""
 ---
+
 
 
 <img src="\images\china-overview\asean-and-china.jpg" alt="asean and china banner" style="width:800px;" />
