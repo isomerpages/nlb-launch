@@ -1,9 +1,10 @@
 ---
-title: 'Regional Newspapers'
-permalink: /asean-countries/know/overview-of-asean-countries/regional-newspapers/
-breadcrumb: 'Regional Newspapers'
-
+title: Regional Newspapers
+permalink: /eoa/overview-asean/regional-newspapers/
+breadcrumb: Regional Newspapers
+description: ""
 ---
+
 
 
 <img src="\images\china-overview\regional-newspapers.jpg" alt="regional newspapers banner" style="width:800px;" />

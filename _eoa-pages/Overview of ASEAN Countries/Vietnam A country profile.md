@@ -1,9 +1,10 @@
 ---
-title: 'Vietnam - A country profile'
-permalink: /asean-countries/know/overview-of-asean-countries/vietnam-a-country-profile/
-breadcrumb: 'Vietnam - A country profile'
-
+title: Vietnam A country profile
+permalink: /eoa/overview-asean/vietnam-a-country-profile/
+breadcrumb: Vietnam - A country profile
+description: ""
 ---
+
 
 
 <img src="/images/asean-countries/Vietnam snapshot cover iso.jpg" alt="Laos snapshot banner" style="width:800px;" />

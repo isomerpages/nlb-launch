@@ -1,9 +1,10 @@
 ---
-title: 'Myanmar - A country profile'
-permalink: /asean-countries/know/overview-of-asean-countries/myanmar-a-country-profile/
-breadcrumb: 'Myanmar - A country profile'
-
+title: Myanmar A country profile
+permalink: /eoa/overview-asean/myanmar-a-country-profile/
+breadcrumb: Myanmar - A country profile
+description: ""
 ---
+
 
 
 <img src="/images/asean-countries/Myanmar snapshot cover iso.jpg" alt="Indonesia snapshot banner" style="width:800px;" />

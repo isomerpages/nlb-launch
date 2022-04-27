@@ -1,8 +1,10 @@
 ---
-title: ASEAN Countries - Biographies of Selected Key Political Leaders
-permalink: /asean-countries/know/overview-of-asean-countries/asean-countries-biographies-of-selected-key-political-leaders/
+title: Biographies of Selected Key Political Leaders
+permalink: /eoa/overview-asean/biographies-of-selected-key-political-leaders/
 breadcrumb: ASEAN Countries - Biographies of Selected Key Political Leaders
+description: ""
 ---
+
 <img src="/images/asean-countries/ASEAN-countries-Biographies.jpg" alt="ASEAN biographies banner" style="width:800px;" />
 
  This is a selection of resources on key political leaders in ASEAN countries available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.

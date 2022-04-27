@@ -1,8 +1,10 @@
 ---
 title: Tourism Development in ASEAN Countries
-permalink: /asean-countries/know/overview-of-asean-countries/tourism-development-in-asean/
+permalink: /eoa/overview-asean/tourism-development-in-asean/
 breadcrumb: Tourism Development in ASEAN Countries
+description: ""
 ---
+
 <img src="/images/asean-countries/Tourism-in-ASEAN.jpg" alt="Tourism guide banner" style="width:800px;" />
 
  This is a selection of resources on tourism development in ASEAN countries available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.

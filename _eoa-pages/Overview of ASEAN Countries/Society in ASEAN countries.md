@@ -1,8 +1,10 @@
 ---
 title: Society in ASEAN countries
-permalink: /asean-countries/know/overview-of-asean-countries/society-in-asean-countries/
+permalink: /eoa/overview-asean/society-in-asean-countries/
 breadcrumb: Society in ASEAN countries
+description: ""
 ---
+
 <img src="/images/asean-countries/Society-in-ASEAN.jpg" alt="Society in ASEAN banner" style="width:800px;" />
  
 This is a selection of resources on international and regional economic cooperation in ASEAN countries available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.

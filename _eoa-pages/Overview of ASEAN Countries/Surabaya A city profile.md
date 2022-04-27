@@ -1,9 +1,10 @@
 ---
-title: 'Surabaya - A city profile'
-permalink: /asean-countries/know/overview-of-asean-countries/surabaya-a-city-profile/
-breadcrumb: 'Surabaya - A city profile'
-
+title: Surabaya A city profile
+permalink: /eoa/overview-asean/surabaya-a-city-profile/
+breadcrumb: Surabaya - A city profile
+description: ""
 ---
+
 
 <img src="/images/asean-countries/Surabaya-snapshot-cover.jpg" alt="Surabaya snapshot banner" style="width:800px;" />
 

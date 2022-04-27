@@ -1,9 +1,10 @@
 ---
-title: 'Indonesia - A country profile'
-permalink: /asean-countries/know/overview-of-asean-countries/indonesia-a-country-profile/
-breadcrumb: 'Indonesia - A country profile'
-
+title: Indonesia A country profile
+permalink: /eoa/overview-asean/indonesia-a-country-profile/
+breadcrumb: Indonesia - A country profile
+description: ""
 ---
+
 
 
 <img src="/images/asean-countries/Indonesia snapshot cover iso.jpg" alt="Indonesia snapshot banner" style="width:800px;" />

@@ -1,9 +1,10 @@
 ---
-title: 'Yangon - A city profile'
-permalink: /asean-countries/know/overview-of-asean-countries/yangon-a-city-profile/
-breadcrumb: 'Yangon - A city profile'
-
+title: Yangon A city profile
+permalink: /eoa/overview-asean/yangon-a-city-profile/
+breadcrumb: Yangon - A city profile
+description: ""
 ---
+
 
 
 <img src="/images/asean-countries/Yangon snapshot iso.jpg" alt="Yangon snapshot banner" style="width:800px;" />

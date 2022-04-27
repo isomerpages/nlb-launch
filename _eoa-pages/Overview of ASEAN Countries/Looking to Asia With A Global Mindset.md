@@ -1,9 +1,10 @@
 ---
-title: 'Looking to Asia With A Global Mindset'
-permalink: /asean-countries/know/overview-of-asean-countries/looking-to-asia-with-global-mindset/
-breadcrumb: 'Looking to Asia With a Global Mindset'
-
+title: Looking to Asia With A Global Mindset
+permalink: /eoa/overview-asean/looking-to-asia-with-global-mindset/
+breadcrumb: Looking to Asia With a Global Mindset
+description: ""
 ---
+
 
 <img src="\images\asean-countries\Looking-to-Asia.png" alt="Looking to Asia" style="width:800px;" />
 

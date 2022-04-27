@@ -1,9 +1,10 @@
 ---
-title: 'ASEAN@50 - Historic Milestones'
-permalink: /asean-countries/know/overview-of-asean-countries/asean-50-historic-milestones/
-breadcrumb: 'ASEAN@50 - Historic Milestones'
-
+title: ASEAN at 50 Historic Milestones
+permalink: /eoa/overview-asean/asean-50-historic-milestones/
+breadcrumb: ASEAN@50 - Historic Milestones
+description: ""
 ---
+
 
 
 <img src="\images\asean-countries\asean-50.jpg" alt="ASEAN snapshot banner" style="width:800px;" />

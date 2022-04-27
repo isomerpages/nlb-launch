@@ -1,9 +1,10 @@
 ---
-title: 'Cambodia - A country profile'
-permalink: /asean-countries/know/overview-of-asean-countries/cambodia-a-country-profile/
-breadcrumb: 'Cambodia - A country profile'
-
+title: Cambodia A country profile
+permalink: /eoa/overview-asean/cambodia-a-country-profile/
+breadcrumb: Cambodia - A country profile
+description: ""
 ---
+
 
 
 <img src="/images/asean-countries/Cambodia snapshot cover.jpg" alt="Cambodia snapshot banner" style="width:800px;" />

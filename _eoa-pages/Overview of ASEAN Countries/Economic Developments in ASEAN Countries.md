@@ -1,8 +1,10 @@
 ---
 title: Economic Developments in ASEAN Countries
-permalink: /asean-countries/know/overview-of-asean-countries/economic-developments-in-asean-countries/
+permalink: /eoa/overview-asean/economic-developments-in-asean-countries/
 breadcrumb: Economic Developments in ASEAN Countries
+description: ""
 ---
+
 <img src="/images/asean-countries/Economic-developments-in-ASEAN-countries.jpg" alt="economic developments banner" style="width:800px;" />
 
 This is a selection of resources on economic developments in ASEAN countries available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.

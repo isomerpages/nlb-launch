@@ -1,9 +1,10 @@
 ---
-title: 'Lao PDR - A country profile'
-permalink: /asean-countries/know/overview-of-asean-countries/lao-a-country-profile/
-breadcrumb: 'Lao PDR - A country profile'
-
+title: Lao PDR A country profile
+permalink: /eoa/overview-asean/lao-a-country-profile/
+breadcrumb: Lao PDR - A country profile
+description: ""
 ---
+
 
 
 <img src="/images/asean-countries/Laos snapshot cover iso.jpg" alt="Laos snapshot banner" style="width:800px;" />

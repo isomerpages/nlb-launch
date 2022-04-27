@@ -1,8 +1,10 @@
 ---
-title: Malaysia - A country profile
-permalink: /asean-countries/know/overview-of-asean-countries/malaysia-a-country-profile/
+title: Malaysia A country profile
+permalink: /eoa/overview-asean/malaysia-a-country-profile/
 breadcrumb: Malaysia - A country profile
+description: ""
 ---
+
 <img src="/images/asean-countries/Malaysia snapshot cover iso.jpg" alt="Malaysia snapshot banner" style="width:800px;" />
 
 This article provides an overview of Malaysia for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice.

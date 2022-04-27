@@ -1,9 +1,10 @@
 ---
-title: 'Philippines - A country profile'
-permalink: /asean-countries/know/overview-of-asean-countries/philippines-a-country-profile/
-breadcrumb: 'Philippines - A country profile'
-
+title: Philippines A country profile
+permalink: /eoa/overview-asean/philippines-a-country-profile/
+breadcrumb: Philippines - A country profile
+description: ""
 ---
+
 
 
 <img src="/images/asean-countries/Philippines snapshot cover iso.jpg" alt="Philippines snapshot banner" style="width:800px;" />

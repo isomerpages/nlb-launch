@@ -1,9 +1,10 @@
 ---
-title: 'Brunei - A country profile'
-permalink: /asean-countries/know/overview-of-asean-countries/brunei-a-country-profile/
-breadcrumb: 'Brunei - A country profile'
-
+title: Brunei A country profile
+permalink: /eoa/overview-asean/brunei-a-country-profile/
+breadcrumb: Brunei - A country profile
+description: ""
 ---
+
 
 
 <img src="/images/asean-countries/Brunei snapshot cover iso.jpg" alt="Brunei snapshot banner" style="width:800px;" />

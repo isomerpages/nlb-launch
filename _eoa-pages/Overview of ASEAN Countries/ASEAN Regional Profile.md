@@ -1,9 +1,10 @@
 ---
-title: 'ASEAN - A regional profile'
-permalink: /asean-countries/know/overview-of-asean-countries/asean-a-regional-profile/
-breadcrumb: 'ASEAN - A regional profile'
-
+title: ASEAN Regional Profile
+permalink: /eoa/overview-asean/regional-profile/
+breadcrumb: ASEAN - A regional profile
+description: ""
 ---
+
 
 
 <img src="\images\asean-countries\asean-banner.jpg" alt="ASEAN snapshot banner" style="width:800px;" />
