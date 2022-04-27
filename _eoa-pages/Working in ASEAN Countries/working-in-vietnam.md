@@ -1,6 +1,6 @@
 ---
 title: 'Working in Vietnam'
-permalink: /asean-countries/know/working-in-asean-countries/working-in-vietnam/
+permalink: /eoa/working-asean/working-in-vietnam/
 breadcrumb: 'Working in Vietnam'
 
 ---

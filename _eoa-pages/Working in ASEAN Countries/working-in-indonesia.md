@@ -1,6 +1,6 @@
 ---
 title: 'Working in Indonesia'
-permalink: /asean-countries/know/working-in-asean-countries/working-in-indonesia/
+permalink: /eoa/working-asean/working-in-indonesia/
 breadcrumb: 'Working in Indonesia'
 
 ---

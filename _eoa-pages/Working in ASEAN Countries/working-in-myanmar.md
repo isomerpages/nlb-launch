@@ -1,6 +1,6 @@
 ---
 title: 'Working in Myanmar'
-permalink: /asean-countries/know/working-in-asean-countries/working-in-myanmar/
+permalink: /eoa/working-asean/working-in-myanmar/
 breadcrumb: 'Working in Myanmar'
 
 ---

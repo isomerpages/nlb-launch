@@ -1,6 +1,6 @@
 ---
 title: 'Working in Malaysia'
-permalink: /asean-countries/know/working-in-asean-countries/working-in-malaysia/
+permalink: /eoa/working-asean/working-in-malaysia/
 breadcrumb: 'Working in Malaysia'
 
 ---

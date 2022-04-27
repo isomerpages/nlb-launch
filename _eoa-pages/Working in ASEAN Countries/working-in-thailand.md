@@ -1,6 +1,6 @@
 ---
 title: 'Working in Thailand'
-permalink: /asean-countries/know/working-in-asean-countries/working-in-thailand/
+permalink: /eoa/working-asean/working-in-thailand/
 breadcrumb: 'Working in Thailand'
 
 ---

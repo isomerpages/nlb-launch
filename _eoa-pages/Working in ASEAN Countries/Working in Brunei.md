@@ -1,9 +1,10 @@
 ---
-title: 'Working in Brunei'
-permalink: /asean-countries/know/working-in-asean-countries/working-in-brunei/
-breadcrumb: 'Working in Brunei'
-
+title: Working in Brunei
+permalink: /eoa/working-asean/working-in-asean-countries/working-in-brunei/
+breadcrumb: Working in Brunei
+description: ""
 ---
+
 
 
 <img src="\images\eoa\Asean Working\ASEAN-Brunei-Working.jpg" alt="Working in Brunei banner" style="width:800px;" />

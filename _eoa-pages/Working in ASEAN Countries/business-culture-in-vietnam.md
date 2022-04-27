@@ -1,6 +1,6 @@
 ---
 title: 'Business culture in Vietnam'
-permalink: /asean-countries/know/working-in-asean-countries/business-culture-in-vietnam/
+permalink: /eoa/working-asean/business-culture-in-vietnam/
 breadcrumb: 'Business culture in Vietnam'
 
 ---

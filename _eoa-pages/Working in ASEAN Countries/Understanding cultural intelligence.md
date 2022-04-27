@@ -1,9 +1,10 @@
 ---
-title: 'Understanding cultural intelligence'
-permalink: /asean-countries/know/working-in-asean/understanding-cultural-intelligence/
-breadcrumb: 'Understanding cultural intelligence'
-
+title: Understanding cultural intelligence
+permalink: /eoa/working-asean/understanding-cultural-intelligence
+breadcrumb: Understanding cultural intelligence
+description: ""
 ---
+
 
 
 <img src="\images\eoa\Asean Working\cultural-intelligence-2.jpg" alt="cultural intelligence" style="width:800px;" />

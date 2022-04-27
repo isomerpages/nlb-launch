@@ -1,6 +1,6 @@
 ---
 title: 'Business culture in Thailand'
-permalink: /asean-countries/know/working-in-asean-countries/business-culture-in-thailand/
+permalink: /eoa/working-asean/business-culture-in-thailand/
 breadcrumb: 'Business culture in Thailand'
 
 ---

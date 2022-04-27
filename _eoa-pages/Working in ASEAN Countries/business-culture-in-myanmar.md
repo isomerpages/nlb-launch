@@ -1,6 +1,6 @@
 ---
 title: 'Business culture in Myanmar'
-permalink: /asean-countries/know/working-in-asean-countries/business-culture-in-myanmar/
+permalink: /eoa/working-asean/business-culture-in-myanmar/
 breadcrumb: 'Business culture in Myanmar'
 
 ---

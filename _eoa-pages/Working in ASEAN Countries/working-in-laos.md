@@ -1,6 +1,6 @@
 ---
 title: 'Working in Laos'
-permalink: /asean-countries/know/working-in-asean-countries/working-in-laos/
+permalink: /eoa/working-asean/working-in-laos/
 breadcrumb: 'Working in Laos'
 
 ---

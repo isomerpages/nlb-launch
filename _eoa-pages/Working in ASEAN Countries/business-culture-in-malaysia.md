@@ -1,6 +1,6 @@
 ---
 title: 'Business culture in Malaysia'
-permalink: /asean-countries/know/working-in-asean-countries/business-culture-in-malaysia/
+permalink: /eoa/working-asean/business-culture-in-malaysia/
 breadcrumb: 'Business culture in Malaysia'
 
 ---

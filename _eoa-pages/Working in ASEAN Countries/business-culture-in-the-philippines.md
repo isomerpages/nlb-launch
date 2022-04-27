@@ -1,6 +1,6 @@
 ---
 title: 'Business culture in the Philippines'
-permalink: /asean-countries/know/working-in-asean-countries/business-culture-in-philippines/
+permalink: /eoa/working-asean/business-culture-in-philippines/
 breadcrumb: 'Business culture in the Philippines'
 
 ---

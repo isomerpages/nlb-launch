@@ -1,9 +1,10 @@
 ---
-title: 'Business culture in Brunei'
-permalink: /asean-countries/know/working-in-asean-countries/business-culture-in-brunei/
-breadcrumb: 'Business culture in Brunei'
-
+title: Business culture in Brunei
+permalink: /eoa/working-asean/business-culture-in-brunei/
+breadcrumb: Business culture in Brunei
+description: ""
 ---
+
 
 
 <img src="\images\eoa\Asean Working\ASEAN-Brunei-Business-Culture.jpg" alt="Business culture Brunei banner" style="width:800px;" />

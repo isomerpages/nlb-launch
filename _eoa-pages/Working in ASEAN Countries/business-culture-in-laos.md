@@ -1,6 +1,6 @@
 ---
 title: 'Business culture in Laos'
-permalink: /asean-countries/know/working-in-asean-countries/business-culture-in-laos/
+permalink: /eoa/working-asean/business-culture-in-laos/
 breadcrumb: 'Business culture in Laos'
 
 ---
