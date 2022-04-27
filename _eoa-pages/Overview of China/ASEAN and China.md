@@ -8,7 +8,7 @@ description: ""
 
 
 
-<img src="\images\china-overview\asean-and-china.jpg" alt="asean and china banner" style="width:800px;" />
+<img src="\images\eoa\china overview\asean-and-china.jpg" alt="asean and china banner" style="width:800px;" />
 
 This is a selection of resources on ASEAN and China available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 

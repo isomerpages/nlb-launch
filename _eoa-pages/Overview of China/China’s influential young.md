@@ -8,7 +8,7 @@ description: ""
 
 
 
-<img src="\images\china-overview\china-influential.jpg" alt="china influential banner" style="width:800px;" />
+<img src="\images\eoa\china overview\china-influential.jpg" alt="china influential banner" style="width:800px;" />
 
 This is a selection of resources on China’s new generation available from the [NLB catalogue](http://catalogue.nlb.gov.sg/){:target="_blank"} or the Internet and is not meant to be an exhaustive list.
 

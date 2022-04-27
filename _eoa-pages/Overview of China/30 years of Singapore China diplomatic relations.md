@@ -7,7 +7,7 @@ description: ""
 
 
 
-<img src="\images\china-overview\SG-China-relations.png" alt="SG-China 30 years diplomatic relations" style="width:800px;" />
+<img src="\images\eoa\china overview\SG-China-relations.png" alt="SG-China 30 years diplomatic relations" style="width:800px;" />
 
 This year 2020 marks the 30th anniversary of the establishment of diplomatic relations between Singapore and China. 
 
