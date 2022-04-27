@@ -6,7 +6,7 @@ breadcrumb: 'Jiangsu - A profile'
 ---
 
 
-<img src="\images\china-selected\jiangsu-profile.jpg" alt="jiangsu profile banner" style="width:800px;" />
+<img src="\images\eoa\china selected\jiangsu-profile.jpg" alt="jiangsu profile banner" style="width:800px;" />
 
 This article provides an overview of Jiangsu for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
 
@@ -24,7 +24,7 @@ Jiangsu province, located on the east coast of China, is bounded by the Yellow S
 
 ### **Economy**
 
-<!--div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\china-selected\jiangsu-profile-chart-1.jpg" style="width:350px;" />Data Source: Jiangsu: Market Profile. (2018, January). Hong Kong Trade Development Council.</div-->
+<!--div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\eoa\china selected\jiangsu-profile-chart-1.jpg" style="width:350px;" />Data Source: Jiangsu: Market Profile. (2018, January). Hong Kong Trade Development Council.</div-->
 
 Jiangsu’s GDP ranked the second in China in 2018, after Guangdong, accounting for about 10.3 percent of the national total. At the end of 2018, there were about 1.98 million private enterprises in Jiangsu, compared to just 286, 000 in 2002. The southern Jiangsu area of Suzhou, Wuxi, Changzhou, Nanjing and Zhenjiang, that is part of the Yangtze River Delta economic region, is the province’s economic hub. The GDP of the southern Jiangsu area accounted for 57.2 percent of Jiangsu’s total GDP in 2018.[^7] Despite the COVID-19 pandemic, Jiangsu’s GDP increased by 3.7 percent to reach 10.27 trillion yuan (US$1.59 trillion) in 2020. [^8]
 

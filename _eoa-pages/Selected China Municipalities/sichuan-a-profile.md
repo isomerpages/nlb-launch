@@ -3,7 +3,7 @@ title: Sichuan - A profile
 permalink: /china/know/china-municipalities-provinces/sichuan-profile/
 breadcrumb: Sichuan - A profile
 ---
-<img src="\images\china-selected\sichuan-profile.jpg" alt="sichuan profile banner" style="width:800px;" />
+<img src="\images\eoa\china selected\sichuan-profile.jpg" alt="sichuan profile banner" style="width:800px;" />
 
 This article provides an overview of Sichuan for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
 
@@ -24,7 +24,7 @@ Sichuan province is located in the upper Yangtze River valley in the southwester
 
 ### **Economy**
 
-<!--div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\china-selected\sichuan-chart-1.jpg" style="width:500px;" />Data Source: Hong Kong Trade Development Council</div-->
+<!--div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\eoa\china selected\sichuan-chart-1.jpg" style="width:500px;" />Data Source: Hong Kong Trade Development Council</div-->
 Sichuan province reported a GDP of 4,067.8 billion yuan (US$597.9 billion) in 2018, rising eight percent from the previous year. The service sector saw a growth of 9.4 percent, contributing to over half of the GDP for the first time. Sichuan's economic structure has been improving and its new growth drivers have been gaining momentum. The service sector and consumption are expected to contribute more to economic growth.[^7]  Sichuan province targets an economic expansion of more than seven percent for 2021, after recording a 3.8 GDP growth in 2020. The province's GDP reached 4.86 trillion yuan (US$ 756 billion) in 2020 after a stable recovery from the COVID-19 epidemic. Over the past five years, the province has seen a seven percent average annual GDP growth, with technologies contributing up to 60 percent of it.  [^8]
 
 Chengdu, the provincial capital, captured the top spot in a 2017 Milken Institute ranking of the country’s best-performing big cities. Chengdu’s development of diverse and high value-added industries, encouragement of innovation and entrepreneurship, abundant talent pool, and lower land and labour costs, placed it first among the larger cities in China. Chongqing and Guiyang followed in second and third place, respectively.[^9]

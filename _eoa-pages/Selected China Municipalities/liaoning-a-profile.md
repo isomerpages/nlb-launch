@@ -6,7 +6,7 @@ breadcrumb: 'Liaoning - A profile'
 ---
 
 
-<img src="\images\china-selected\liaoning-profile.jpg" alt="liaoning profile banner" style="width:800px;" />
+<img src="\images\eoa\china selected\liaoning-profile.jpg" alt="liaoning profile banner" style="width:800px;" />
 
 This article provides an overview of Liaoning for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
 
@@ -29,7 +29,7 @@ Liaoning province, in the northeast region of China, borders Jilin province to t
 
 ### **Economy**
 
-<!--div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\china-selected\liaoning-chart-1.png" style="width:400px;" />Data source: HKTDC Research</div-->
+<!--div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\eoa\china selected\liaoning-chart-1.png" style="width:400px;" />Data source: HKTDC Research</div-->
 
 The province is endowed with large reserves of mineral resources, including ferrous metals, non-ferrous metals, and oil and gas.[^7] Its reserves of boron, magnesite, diamonds and jade are also the largest in China.[^8]
 

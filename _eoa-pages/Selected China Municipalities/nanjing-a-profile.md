@@ -6,7 +6,7 @@ breadcrumb: 'Nanjing - A profile'
 ---
 
 
-<img src="\images\china-selected\nanjing-profile.jpg" alt="nanjing profile banner" style="width:800px;" />
+<img src="\images\eoa\china selected\nanjing-profile.jpg" alt="nanjing profile banner" style="width:800px;" />
 
 This article provides an overview of Nanjing for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
 

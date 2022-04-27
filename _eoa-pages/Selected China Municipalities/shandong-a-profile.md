@@ -3,7 +3,7 @@ title: Shandong - A profile
 permalink: /china/know/china-municipalities-provinces/shandong-profile/
 breadcrumb: Shandong - A profile
 ---
-<img src="\images\china-selected\shandong-profile.jpg" alt="shandong profile banner" style="width:800px;" />
+<img src="\images\eoa\china selected\shandong-profile.jpg" alt="shandong profile banner" style="width:800px;" />
 
 This article provides an overview of Shandong for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
 
@@ -25,7 +25,7 @@ Shandong province is located on the eastern coast of China. It borders Tianjin a
 
 ### **Industries**
 
-<!--div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\china-selected\shandong-chart-1.jpg" style="width:400px;" />Data Source: CEIC</div-->
+<!--div style="width:image width px; font-size:80%; text-align:center;"><img src="\images\eoa\china selected\shandong-chart-1.jpg" style="width:400px;" />Data Source: CEIC</div-->
 
 Heavy industry accounts for more than 67 percent of Shandong’s gross industrial output. The five main industry sectors in Shandong (by share of a value-added industrial output in percentage terms) are raw chemical materials and chemical products (10.3 percent), processing of oil, coal and other fuel (10 percent), processing of food from agricultural products (6.1 percent), manufacturing and processing of non-ferrous metals (5.1 percent) and production and supply of electric power and heat power (5.1 percent). The province also produces almost 12 percent of China’s total crude oil output. Agricultural production includes apples, peanuts and vegetables.[^7]
 

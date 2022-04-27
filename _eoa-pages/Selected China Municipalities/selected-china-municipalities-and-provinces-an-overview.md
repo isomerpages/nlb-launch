@@ -6,7 +6,7 @@ breadcrumb: 'Selected China municipalities and provinces - An overview'
 ---
 
 
-<img src="\images\china-selected\overview-selected-china.jpg" alt="selected china banner" style="width:800px;" />
+<img src="\images\eoa\china selected\overview-selected-china.jpg" alt="selected china banner" style="width:800px;" />
 
 This article provides an overview of selected municipalities and provinces in China for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
 

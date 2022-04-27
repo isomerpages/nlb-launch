@@ -6,7 +6,7 @@ breadcrumb: 'Chongqing - A profile'
 ---
 
 
-<img src="\images\china-selected\chongqing-profile.jpg" alt="chongqing profile banner" style="width:800px;" />
+<img src="\images\eoa\china selected\chongqing-profile.jpg" alt="chongqing profile banner" style="width:800px;" />
 
 This article provides an overview of Chongqing for those keen on exploring the possibility of living and working there. The information presented is gathered from open sources and is not exhaustive or meant to supplement or substitute legal and professional advice. 
 
@@ -24,7 +24,7 @@ Chongqing is located at the confluence of the Yangtze and Jialing Rivers in sout
 
 ### **Economy**
 
-<!-- img src="\images\china-selected\chongqing-chart-1.png" style="width:350px;" /-->
+<!-- img src="\images\eoa\china selected\chongqing-chart-1.png" style="width:350px;" /-->
 
 Chongqing is one of the fastest growing cities in China.[^8] Besides the construction of the Three Gorges Dam Project, its rapid economic growth could also be attributed to China’s “favourable policies”, particularly the “Go West” strategy launched in 2000, which aims to generate investment in western China. Chongqing has largely benefitted from the policy and became a significant trading and manufacturing hub as well as a major gateway to west China.[^9] With its strategic location, Chongqing is also “a key strategic node” of the Belt and Road Initiative, which was unveiled in 2013 and aims to connect 65 countries across three continents through China.[^10]
 
