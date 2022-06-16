@@ -2,22 +2,6 @@ collections:
   business-kick-starter:
     output: true
     order:
-      - contents.md
-      - business-basics/.keep
-      - business-basics/contents.md
-      - business-basics/introduction-to-entrepreneurship.md
-      - business-basics/ideation-and-market-validation.md
-      - business-basics/business-and-market-research.md
-      - business-basics/negotiating-and-networking.md
-      - business-basics/protecting-your-ideas.md
-      - business-basics/branding-and-marketing.md
-      - business-basics/product-development.md
-      - developing-a-business-plan/.keep
-      - developing-a-business-plan/contents.md
-      - all-things-financial-and-legal/.keep
-      - all-things-financial-and-legal/contents.md
-      - launched-and-stay-on-course/.keep
-      - launched-and-stay-on-course/contents.md
-      - launched-and-stay-on-course/building-a-successful-start-up-team.md
-      - venturing-beyond-singapore/.keep
-      - venturing-beyond-singapore/contents.md
+      - print-and-digital-resources/.keep
+      - print-and-digital-resources/introduction.md
+      - print-and-digital-resources/test.md

@@ -1,0 +1,23 @@
+collections:
+  articles-guides-and-stories:
+    output: true
+    order:
+      - contents.md
+      - Getting Started/.keep
+      - Getting Started/contents.md
+      - Getting Started/introduction-to-entrepreneurship.md
+      - Getting Started/ideation-and-market-validation.md
+      - Getting Started/business-and-market-research.md
+      - Getting Started/negotiating-and-networking.md
+      - Getting Started/protecting-your-ideas.md
+      - Getting Started/branding-and-marketing.md
+      - Getting Started/product-development.md
+      - Running the Business/.keep
+      - Running the Business/contents.md
+      - Running the Business/building-a-successful-start-up-team.md
+      - Resource Guides/.keep
+      - Resource Guides/Contents.md
+      - Useful Lists/.keep
+      - Useful Lists/Contents.md
+      - Success Stories/.keep
+      - Success Stories/Contents.md

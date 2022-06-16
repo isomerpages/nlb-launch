@@ -1,17 +1,17 @@
 logo: /images/Launch_Logo_RGB_Primary.png
 links:
-  - title: About
-    url: /about-us
-  - title: Nlb Resources
-    collection: nlb-resources
   - title: Business Kick Starter
     collection: business-kick-starter
+  - title: Articles Guides And Stories
+    collection: articles-guides-and-stories
   - title: Eye on Asia
     collection: eye-on-asia
   - title: Events
     collection: events
-  - title: Contact Us
+  - title: About Us
     url: /contact-us
     sublinks:
-      - title: Consult a Specialist
-        url: /consult-a-specialist
+      - title: Partners
+        url: /partners
+      - title: General Enquiries
+        url: /contact-us
