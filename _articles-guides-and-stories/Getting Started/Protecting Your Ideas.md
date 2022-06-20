@@ -1,8 +1,10 @@
 ---
 title: Protecting Your Ideas
-permalink: /business-builder/basics/protect/
+permalink: /articles-guides/getting-started/protect/
 third_nav_title: Getting Started
+description: ""
 ---
+
 
 # Protecting Your Ideas
 

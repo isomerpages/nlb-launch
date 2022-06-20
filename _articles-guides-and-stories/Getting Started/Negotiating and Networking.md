@@ -1,8 +1,10 @@
 ---
 title: Negotiating and Networking
-permalink: /business-builder/basics/negotiate
+permalink: /articles-guides/getting-started/negotiate
 third_nav_title: Getting Started
+description: ""
 ---
+
 
 # Negotiating and Networking
 

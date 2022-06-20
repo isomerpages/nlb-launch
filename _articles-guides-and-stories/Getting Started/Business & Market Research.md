@@ -1,8 +1,10 @@
 ---
-title: "Business & Market Research "
-permalink: /business-builder/basics/research
+title: Business & Market Research
+permalink: /articles-guides/getting-started/research
 third_nav_title: Getting Started
+description: ""
 ---
+
 
 # Business & Market Research 
 

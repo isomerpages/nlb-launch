@@ -1,7 +1,9 @@
 ---
 title: Contents
-permalink: /business-builder/
+permalink: /articles-guides/
+description: ""
 ---
+
 <img src="/images/icons/Database-01.png" style="width:600px">
 
 No matter what stage your business is at, we have the tools and resources to take it to the next level.

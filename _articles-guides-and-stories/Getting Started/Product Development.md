@@ -1,8 +1,10 @@
 ---
-title: "Product Development "
-permalink: /business-builder/basics/product/
+title: Product Development
+permalink: /articles-guides/getting-started/product-dev
 third_nav_title: Getting Started
+description: ""
 ---
+
 
 # Product Development 
 Contents:

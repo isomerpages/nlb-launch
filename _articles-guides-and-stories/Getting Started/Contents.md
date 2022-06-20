@@ -1,8 +1,10 @@
 ---
 title: Contents
-permalink: /business-builder/getting-started/introduction
+permalink: /articles-guides/getting-started/introduction
 third_nav_title: Getting Started
+description: ""
 ---
+
 
 # Getting started
 

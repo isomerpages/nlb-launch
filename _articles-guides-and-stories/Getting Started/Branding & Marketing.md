@@ -1,8 +1,10 @@
 ---
 title: Branding & Marketing
-permalink: /business-builder/basics/brand
+permalink: /articles-guides/getting-started/branding
 third_nav_title: Getting Started
+description: ""
 ---
+
 
 # Branding & Marketing
 Contents:

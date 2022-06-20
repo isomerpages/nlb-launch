@@ -1,8 +1,10 @@
 ---
 title: Ideation and Market Validation
-permalink: /business-builder/basics/ideation
+permalink: /articles-guides/getting-started/ideation
 third_nav_title: Getting Started
+description: ""
 ---
+
 
 # Ideation And Market Validation
 Contents:

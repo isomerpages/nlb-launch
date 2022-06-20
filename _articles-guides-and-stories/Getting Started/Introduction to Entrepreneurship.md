@@ -1,8 +1,10 @@
 ---
 title: Introduction to Entrepreneurship
-permalink: /business-builder/basics/entrepreneurship
+permalink: /articles-guides/getting-started/entrepreneurship
 third_nav_title: Getting Started
+description: ""
 ---
+
 
 # Introduction to Entrepreneurship
 
