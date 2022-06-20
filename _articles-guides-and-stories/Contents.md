@@ -9,20 +9,50 @@ No matter what stage your business is at, we have the tools and resources to tak
 
 Explore our library of helpful articles for tips and things to consider while running a successful business.
 
+*   Getting Started
+*   Running the Business
+*   Resource Guides
+*   Useful Lists
+*   Success Stories
+
 <hr>
 
 <div class="row is-multiline">
-  <div class="col is-one-half">
+  <div class="col is-one-third">
     <div class="clickbox">
-      <a href="/careers/teens/overview">
-        <span>Teens</span>
+      <a href="/articles-guides/getting-started/introduction/">
+        <span>Getting Started</span>
       </a>
     </div>
   </div>
-  <div class="col is-one-half">
+  <div class="col is-one-third">
     <div class="clickbox">
-      <a href="/careers/adults-seniors/overview">
-        <span>Adults & Seniors</span>
+      <a href="/articles-guides/running-business/">
+        <span>Running the Business</span>
+      </a>
+    </div>
+  </div>
+   <div class="col is-one-third">
+		     <div class="clickbox">
+      <a href="/articles-guides/resource-guides/">
+        <span>Resource Guides</span>
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox">
+      <a href="/articles-guides/lists/">
+        <span>Useful Lists</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox">
+      <a href="/articles-guides/stories/">
+        <span>Success Stories</span>
       </a>
     </div>
   </div>
