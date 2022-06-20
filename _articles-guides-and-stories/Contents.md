@@ -3,7 +3,6 @@ title: Contents
 permalink: /articles-guides/
 description: ""
 ---
-
 <img src="/images/icons/Database-01.png" style="width:600px">
 
 No matter what stage your business is at, we have the tools and resources to take it to the next level.
@@ -12,6 +11,26 @@ Explore our library of helpful articles for tips and things to consider while ru
 
 <hr>
 
+<div class="row is-multiline">
+  <div class="col is-one-half">
+    <div class="clickbox">
+      <a href="/careers/teens/overview">
+        <span>Teens</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-half">
+    <div class="clickbox">
+      <a href="/careers/adults-seniors/overview">
+        <span>Adults & Seniors</span>
+      </a>
+    </div>
+  </div>
+   <div class="col is-one-third">
+  </div>
+</div>
+
+<!--
 <div class="row is-multiline">
 	 <a href="/business-builder/getting-started/introduction">
     <div class="one-third-column">
@@ -31,7 +50,7 @@ Explore our library of helpful articles for tips and things to consider while ru
 			 Running a Business
    </div>
 		 </a>
-</div>
+</div> -->
 
 [Resource Guides](/articles-guides/Resource-Guides/contents)
 
