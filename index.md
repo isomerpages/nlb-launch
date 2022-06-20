@@ -12,16 +12,16 @@ sections:
       dropdown:
         title: Learn more about...
         options:
-          - title: Starting a Business
-            url: /business-builder/
-          - title: Finding a Job
-            url: /career-builder/find/
-          - title: Switching Careers
-            url: /career-builder/switch/
-          - title: Upskilling
-            url: /career-builder/upskill/
-          - title: Thriving at Work
-            url: /career-builder/thrive/
+          - title: Getting assistance for your business
+            url: /business-kickstarter/
+          - title: Starting a business
+            url: /articles-guides/getting-started/introduction
+          - title: Running your business
+            url: /articles-guides/running-business/
+          - title: Exploring overseas opportunities
+            url: /eoa/
+          - title: Free events and programmes
+            url: /programmes/event-calendar
   - infobar:
       title: Thinking about learning a new skill?
       subtitle: Need new ideas?
@@ -31,23 +31,23 @@ sections:
       button: About Us
       url: /about-us/
   - infopic:
-      title: NLB Resources
-      subtitle: Curated Lists
-      description: of resource guides, directories, e-books, databases and articles to
-        point you in the right direction
-      button: Explore Content
-      url: /resources/
-      image: /images/icons/Books-01.png
-      alt: Image alt text
-  - infopic:
-      title: Business Builder
+      title: Business Kick-starter
       subtitle: Get Started
       description: No matter what stage your business is at, we have the resources and
         tools to take it to the next level.
-      button: Get Started
-      url: /business-builder/
+      button: Connect with a Specialist
+      url: /business-kickstarter/
       image: /images/icons/Database-01.png
-      alt: Business Builder
+      alt: Business Kickstarter
+  - infopic:
+      title: Articles, Guides and Stories
+      subtitle: Bite-sized information
+      description: Let our curated, bite-sized information packages point you in the
+        right direction.
+      button: Explore Content
+      url: /articles-guides/
+      image: /images/icons/Books-01.png
+      alt: Articles, Guides and Stories
   - infopic:
       title: Eye on Asia
       subtitle: Discover Asia's Opportunities
