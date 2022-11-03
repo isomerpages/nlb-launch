@@ -1,14 +1,14 @@
 ---
 title: Introduction to Entrepreneurship
-permalink: /articles-guides/getting-started/entrepreneurship
+permalink: /articles-guides/getting-started/entrepreneurship/
 third_nav_title: Getting Started
 description: ""
 ---
-
-
 # Introduction to Entrepreneurship
+---
 
-Contents:
+## Contents:
+
 * What is an entrepreneur
 * Developing your entrepreneurial skills*
 * Different forms of entrepreneurship

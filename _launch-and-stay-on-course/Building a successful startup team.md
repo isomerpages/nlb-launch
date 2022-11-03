@@ -1,9 +1,10 @@
 ---
 title: Building a successful startup team
-permalink: /articles-guides/running-business/
-third_nav_title: Running the Business
+permalink: /articles-guides/running-business/launch-stay-on-course/building-successful-startup-team/
 description: ""
 ---
+
+
 
 
 # Building a Successful Start-Up Team
