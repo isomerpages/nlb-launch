@@ -10,7 +10,7 @@ third_nav_title: Running the Business
 
 ## Contents:
 
-* Building a successful start-up team
+* [Building a successful start-up team](/articles-guides/running-business/launch-stay-on-course/building-successful-startup-team/)
 * How to build and manage a strong team
 * Leadership skills for team success
 * Creating a strong team culture

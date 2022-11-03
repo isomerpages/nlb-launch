@@ -3,10 +3,6 @@ title: Building a successful startup team
 permalink: /articles-guides/running-business/launch-stay-on-course/building-successful-startup-team/
 description: ""
 ---
-
-
-
-
 # Building a Successful Start-Up Team
 
 A common problem that causes new ventures to fail is due to a weak start-up team. Choosing the right co-founders or new employees is a critical step in creating a successful founding team. 
@@ -31,27 +27,27 @@ Homogeneous teams with similar backgrounds suffer from groupthink. They may be o
 
 A stellar start-up team is likely to comprise people who fulfil the following roles. One person may play several roles. 
 
-1.	The Visionary
+#### 1.	The Visionary
    * This person creates and articulates the vision for the company
    * Someone who thinks in concepts and produces ideas to form new projects for the company
 
-2.	The Operational Leader
+#### 2.	The Operational Leader
    * Someone with a ‘get things done” attitude and is able to multitask and implement things critical to the visionary
    * This person is practice-driven and knows how to respond to clients demands 
 
-3. The Team Leader
+#### 3. The Team Leader
    * Every start-up team needs a clear leader who will be responsible for decision-making, consensus and compromise
    * Other members in the team look up to and are willing to follow this person 
 
-4.	The Product/Service Expert
+#### 4.	The Product/Service Expert
    * This person knows everything about the company’s product or service and the industry.
    * The expert is knowledgeable about product development and works on resolving issues that clients face
 
-5.	The Salesperson
+#### 5.	The Salesperson
    * This person has technical insight, leadership, and sales experience
    * The strong salesperson will find ways to promote and sell the company’s products and services
 
-6.	The Financial Expert
+#### 6.	The Financial Expert
    * This financial talent knows how to manage cash flows, plan budgets and make financial projections
    * Accounting skills and strategic thinking are essential for this role 
  
