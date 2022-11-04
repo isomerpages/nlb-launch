@@ -4,6 +4,8 @@ permalink: /articles-guides/stories/sheng-siong/
 description: ""
 third_nav_title: Success Stories
 ---
+> Note: This article has not been vetted/cleared by Pubs
+
 # **Company Profile—Sheng Siong**
 
 61-year-old Lim Hock Chee is CEO and founder of Sheng Siong, a Singapore supermarket chain.

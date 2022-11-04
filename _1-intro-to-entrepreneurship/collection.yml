@@ -1,5 +1,5 @@
 collections:
-  intro-to-entrepreneurship:
+  1-intro-to-entrepreneurship:
     output: true
     order:
       - 10 Ways of Getting Feedback.md

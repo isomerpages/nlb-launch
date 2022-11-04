@@ -4,6 +4,8 @@ permalink: /articles-guides/resource-guides/social-entrepreneurship/
 description: ""
 third_nav_title: Resource Guides
 ---
+> Note: This article has not been vetted/cleared by Pubs
+
 # **Introduction**
 
 Social entrepreneurship looks beyond simply making money in a business and is driven by the passion to change a current situation for the better. It could be to right a social injustice, empower the marginalised, or support conservation efforts, amongst many other causes. While there are many social enterprises out there, you do not have to be running your own business to be a social entrepreneur. Social entrepreneurs could also be employed in other businesses, government bodies or non-profit organisations. As a result, social entrepreneurship often comes as an additional responsibility, rather than a personal desire.

@@ -4,6 +4,8 @@ permalink: /articles-guides-and-stories/lists/website-design/
 description: ""
 third_nav_title: Useful Lists
 ---
+> Note: This article has not been vetted/cleared by Pubs
+
 # **Free Web Design Websites**
 
 ## **Introduction**
