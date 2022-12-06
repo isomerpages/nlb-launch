@@ -1,11 +1,9 @@
 ---
 title: Branding & Marketing
-permalink: /articles-guides/getting-started/branding
+permalink: /articles/getting-started/branding/
 third_nav_title: Getting Started
 description: ""
 ---
-
-
 # Branding & Marketing
 Contents:
 * Develop your brand strategy
@@ -15,3 +13,4 @@ Contents:
 * Customer Acquisition and Sales Management
 * Marketing Analytics
 * Create a great website
+* [Building and retaining customer loyalty](/articles/getting-started/branding/customer-loyalty/)

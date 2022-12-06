@@ -1,9 +1,10 @@
 ---
 title: Developing a Business Plan
-permalink: /articles-guides/running-business/business-plan/
+permalink: /articles/running-business/business-plan/
 description: ""
 third_nav_title: Running the Business
 ---
+
 # **Developing a Business Plan**
 ---
 

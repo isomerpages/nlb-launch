@@ -1,9 +1,10 @@
 ---
 title: Product Development
-permalink: /articles-guides/getting-started/product-dev
+permalink: /articles/getting-started/product-dev/
 third_nav_title: Getting Started
 description: ""
 ---
+
 
 
 # Product Development 

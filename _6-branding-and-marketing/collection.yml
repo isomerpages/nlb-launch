@@ -1,4 +1,5 @@
 collections:
   6-branding-and-marketing:
     output: true
-    order: []
+    order:
+      - Building and Retaining Customer Loyalty.md

@@ -1,8 +1,9 @@
 ---
 title: Five Steps to Validate Your Business Idea
-permalink: /get-started/ideation-validation/validate-idea/
+permalink: /articles/get-started/ideation-validation/validate-idea/
 description: ""
 ---
+
 
 # Five Steps to Validate Your Business Idea
 

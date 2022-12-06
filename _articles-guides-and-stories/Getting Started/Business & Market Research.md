@@ -1,9 +1,10 @@
 ---
 title: Business & Market Research
-permalink: /articles-guides/getting-started/research
+permalink: /articles/getting-started/research/
 third_nav_title: Getting Started
 description: ""
 ---
+
 
 
 # Business & Market Research 

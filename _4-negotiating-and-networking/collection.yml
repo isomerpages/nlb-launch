@@ -2,4 +2,5 @@ collections:
   4-negotiating-and-networking:
     output: true
     order:
-      - elevator-pitch-for-start-ups.md
+      - Basic Negotiation and Persuasion Strategies.md
+      - Elevator Pitch for Startups.md

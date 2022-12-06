@@ -1,8 +1,9 @@
 ---
 title: Identifying and Evaluating a Business Opportunity
-permalink: /get-started/ideation-validation/id-evaluate-opp/
+permalink: /articles/get-started/ideation-validation/id-evaluate-opp/
 description: ""
 ---
+
 
 
 # Identifying and Evaluating a Business Opportunity

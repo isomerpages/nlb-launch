@@ -1,4 +1,5 @@
 collections:
   all-things-financial-and-legal:
     output: true
-    order: []
+    order:
+      - Basic finance skills every entrepreneur needs.md

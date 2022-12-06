@@ -1,9 +1,10 @@
 ---
 title: Contents
-permalink: /articles-guides/running-business/
+permalink: /articles/running-business/
 third_nav_title: Running the Business
 description: ""
 ---
+
 
 
 # Launched and Stay on Course

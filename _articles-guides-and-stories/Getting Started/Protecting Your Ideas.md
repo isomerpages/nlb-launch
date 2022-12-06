@@ -1,9 +1,10 @@
 ---
 title: Protecting Your Ideas
-permalink: /articles-guides/getting-started/protect/
+permalink: /articles/getting-started/protect/
 third_nav_title: Getting Started
 description: ""
 ---
+
 
 
 # Protecting Your Ideas

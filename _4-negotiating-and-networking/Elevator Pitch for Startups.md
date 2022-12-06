@@ -1,7 +1,9 @@
 ---
-title: Elevator Pitch for Start-ups
-permalink: /business-builder/basics/negotiate/elevator-pitch
+title: Elevator Pitch for Startups
+permalink: /articles/getting-started/negotiate/elevator-pitch/
+description: ""
 ---
+
 
 
 # Elevator Pitch for Start-Ups

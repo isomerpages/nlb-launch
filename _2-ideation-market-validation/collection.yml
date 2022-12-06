@@ -2,6 +2,6 @@ collections:
   2-ideation-market-validation:
     output: true
     order:
-      - 10 Ways to Get Customer Feedback.md
       - Identifying and Evaluating a Business Opportunity.md
       - Five Steps to Validate Your Business Idea.md
+      - 10 Ways to Get Customer Feedback.md
