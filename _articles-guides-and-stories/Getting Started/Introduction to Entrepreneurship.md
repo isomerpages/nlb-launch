@@ -13,5 +13,5 @@ description: ""
 * Developing your entrepreneurial skills*
 * [Different types of entrepreneurship](/articles/getting-started/entrepreneurship/different-types)
 * How to become a successful entrepreneur
-* Explore the risks and rewards of entrepreneurship
+* [Explore the risks and rewards of entrepreneurship](/articles/getting-started/entrepreneurship/risks-rewards)
 * Key founders decisions
