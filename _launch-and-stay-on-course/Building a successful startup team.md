@@ -1,8 +1,13 @@
 ---
 title: Building a successful startup team
-permalink: /articles-guides/running-business/launch-stay-on-course/building-successful-startup-team/
-description: ""
+permalink: /articles/running-business/launch-stay-on-course/building-successful-startup-team/
+description: Hard skills such as experience, product knowledge and industry
+  skills are important requirements for entrepreneurial success. However,
+  experience alone is not sufficient. A right balance of hard and soft skills
+  makes a team truly thrive. Knowledge, skills, passion and team diversity are
+  equally important for the success of a start-up.
 ---
+
 # Building a Successful Start-Up Team
 
 A common problem that causes new ventures to fail is due to a weak start-up team. Choosing the right co-founders or new employees is a critical step in creating a successful founding team. 
@@ -50,7 +55,8 @@ A stellar start-up team is likely to comprise people who fulfil the following ro
 #### 6.	The Financial Expert
    * This financial talent knows how to manage cash flows, plan budgets and make financial projections
    * Accounting skills and strategic thinking are essential for this role 
- 
+
+
 ## References
 
 Horban, T. (2020, July 10). How to create a stellar startup team: An ultimate guide. Central European Universtiy iLab. Retrieved June 30, 2021, from <https://www.ilab.ceu.edu/articles/how-to-create-a-stellar-startup-team-an-ultimate-guide>
