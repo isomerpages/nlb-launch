@@ -4,7 +4,6 @@ permalink: /articles/running-business/business-plan/
 description: ""
 third_nav_title: Running the Business
 ---
-
 # **Developing a Business Plan**
 ---
 
@@ -19,3 +18,4 @@ third_nav_title: Running the Business
 * Business plan FAQs
 * Business models and pricing
 * Starting a business from scratch
+* [Common mistakes in business plans](/articles/running-business/business-plan/common-mistakes)

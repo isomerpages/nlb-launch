@@ -1,4 +1,5 @@
 collections:
   developing-a-business-plan:
     output: true
-    order: []
+    order:
+      - Common mistakes in business plans.md
