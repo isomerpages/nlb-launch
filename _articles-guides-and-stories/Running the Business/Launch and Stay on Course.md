@@ -17,7 +17,7 @@ third_nav_title: Running the Business
 * Creating a scalable business model
 * Dealing with business growth challenges
 * Creating a positive workplace culture
-* How to recruit a diverse and talented team
+* [How to recruit more diverse talent](/articles/running-business/launch-stay-on-course/recruit-diverse-talent)
 * [How to keep your employees focused and motivated](/articles/running-business/launch-stay-on-course/keep-employees-focused-motivated/)
 * How can businesses survive "black swan" events?
 * Using disruptive technologies to boost your business
