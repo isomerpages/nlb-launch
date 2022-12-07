@@ -1,4 +1,5 @@
 collections:
   5-protecting-your-ideas:
     output: true
-    order: []
+    order:
+      - What is copyright and how to avoid copyright infringement.md
