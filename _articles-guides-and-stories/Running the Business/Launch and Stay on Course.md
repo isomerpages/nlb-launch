@@ -20,4 +20,4 @@ third_nav_title: Running the Business
 * [How to recruit more diverse talent](/articles/running-business/launch-stay-on-course/recruit-diverse-talent)
 * [How to keep your employees focused and motivated](/articles/running-business/launch-stay-on-course/keep-employees-focused-motivated/)
 * How can businesses survive "black swan" events?
-* Using disruptive technologies to boost your business
+* [Using disruptive technologies to boost your business](/articles/running-business/launch-stay-on-course/disruptive-tech-boost-business/)
