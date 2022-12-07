@@ -16,3 +16,4 @@ description: ""
 * [Explore the risks and rewards of entrepreneurship](/articles/getting-started/entrepreneurship/risks-rewards)
 * Key founders decisions
 * [How to make your home business a success](/articles/getting-started/entrepreneurship/home-business-success/)
+* [Supporting the well-being of gig workers and freelancers](/articles/getting-started/entrepreneurship/wellbeing-gig-workers-freelancers/)
