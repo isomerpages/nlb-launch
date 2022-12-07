@@ -2,4 +2,5 @@ collections:
   launch-and-stay-on-course:
     output: true
     order:
+      - How to Keep Your Employees Motivated.md
       - Building a successful startup team.md
