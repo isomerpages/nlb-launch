@@ -83,24 +83,20 @@ While there are many other pricing models catering to more niche areas and indus
 
  
 
-Campbell, Patrick. “Saas Pricing Models, Strategies, and Examples of Success.” ProfitWell. Published 28 May 2020, https://www.profitwell.com/recur/all/saas-pricing  
+Campbell, Patrick. “Saas Pricing Models, Strategies, and Examples of Success.” ProfitWell. Published 28 May 2020, <https://www.profitwell.com/recur/all/saas-pricing>
 
  
 
-Cuofano, Gennaro. “Pricing Strategies and Models to Enable Your Business Model.” Four Week MBA. Published 12 June 2020, https://fourweekmba.com/pricing-strategies/  
+Cuofano, Gennaro. “Pricing Strategies and Models to Enable Your Business Model.” Four Week MBA. Published 12 June 2020, <https://fourweekmba.com/pricing-strategies/>
 
  
 
-Decker, Allie. “The Ultimage Guide to Pricing Strategies.” HubSpot. Updated 17 March 2022, https://blog.hubspot.com/sales/pricing-strategy 
+Decker, Allie. “The Ultimage Guide to Pricing Strategies.” HubSpot. Updated 17 March 2022, <https://blog.hubspot.com/sales/pricing-strategy>
 
  
 
-Mohammed, Rafi. “The Good-Better-Best Approach to Pricing.” Harvard Business Review. Accessed 5 September 2022, https://hbr.org/2018/09/the-good-better-best-approach-to-pricing  
+Mohammed, Rafi. “The Good-Better-Best Approach to Pricing.” Harvard Business Review. Accessed 5 September 2022, <https://hbr.org/2018/09/the-good-better-best-approach-to-pricing>
 
  
 
-Skriveris, Janis. “Business Models (vs. Pricing Models).” LinkedIn. Published 5 August 2020, https://www.linkedin.com/pulse/business-models-vs-pricing-janis-skriveris/ 
-
- 
-
- 
+Skriveris, Janis. “Business Models (vs. Pricing Models).” LinkedIn. Published 5 August 2020, <https://www.linkedin.com/pulse/business-models-vs-pricing-janis-skriveris/>
