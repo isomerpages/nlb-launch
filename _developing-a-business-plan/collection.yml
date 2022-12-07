@@ -2,5 +2,5 @@ collections:
   developing-a-business-plan:
     output: true
     order:
-      - Pricing Models for Business.md
       - Common mistakes in business plans.md
+      - Pricing Models for Business.md
