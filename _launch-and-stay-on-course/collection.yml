@@ -2,7 +2,7 @@ collections:
   launch-and-stay-on-course:
     output: true
     order:
-      - Using Disruptive Technology to Boost Your Business.md
       - Building a successful startup team.md
       - How to Keep Your Employees Motivated.md
+      - Using Disruptive Technology to Boost Your Business.md
       - How to Recruit More Diverse Talent.md
