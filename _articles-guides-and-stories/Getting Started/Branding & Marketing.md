@@ -14,3 +14,5 @@ Contents:
 * Marketing Analytics
 * Create a great website
 * [Building and retaining customer loyalty](/articles/getting-started/branding/customer-loyalty/)
+* [Social commerce](/articles/getting-started/branding/social-commerce/)
+* [Mobile commerce](/articles/getting-started/branding/mobile-commerce/)
