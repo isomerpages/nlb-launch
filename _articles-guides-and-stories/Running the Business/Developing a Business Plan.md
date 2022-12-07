@@ -14,8 +14,7 @@ third_nav_title: Running the Business
 * Overview of business models and planning
 * Brick and mortar vs. e-commerce/omnichannel
 * Types off e-commerce business models
-* How to avoid business planning mistakes
+* [Common mistakes in business plans](/articles/running-business/business-plan/common-mistakes)
 * Business plan FAQs
 * [Pricing models for business](/articles/running-business/business-plan/pricing-models)
 * Starting a business from scratch
-* [Common mistakes in business plans](/articles/running-business/business-plan/common-mistakes)
