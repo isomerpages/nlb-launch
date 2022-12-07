@@ -2,6 +2,8 @@ collections:
   1-intro-to-entrepreneurship:
     output: true
     order:
+      - What are the Advantages and Disadvantages of Being a Gig Worker or
+        Freelancer?.md
       - Different Types of Entrepreneurship.md
       - The Risks and Rewards of Entrepreneurship.md
       - How to make your home business a success.md
