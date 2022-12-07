@@ -2,5 +2,6 @@ collections:
   4-negotiating-and-networking:
     output: true
     order:
-      - Basic Negotiation and Persuasion Strategies.md
       - Elevator Pitch for Startups.md
+      - Basic Negotiation and Persuasion Strategies.md
+      - Communication and Presentation Skills in Business.md
