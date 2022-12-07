@@ -16,6 +16,6 @@ third_nav_title: Running the Business
 * Types off e-commerce business models
 * How to avoid business planning mistakes
 * Business plan FAQs
-* Business models and pricing
+* [Pricing models for business](/articles/running-business/business-plan/pricing-models)
 * Starting a business from scratch
 * [Common mistakes in business plans](/articles/running-business/business-plan/common-mistakes)
