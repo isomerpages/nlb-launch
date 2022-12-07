@@ -4,7 +4,6 @@ permalink: /articles/getting-started/entrepreneurship/
 third_nav_title: Getting Started
 description: ""
 ---
-
 # Introduction to Entrepreneurship
 ---
 
@@ -12,7 +11,7 @@ description: ""
 
 * What is an entrepreneur
 * Developing your entrepreneurial skills*
-* Different forms of entrepreneurship
+* [Different types of entrepreneurship](/articles/getting-started/entrepreneurship/different-types)
 * How to become a successful entrepreneur
 * Explore the risks and rewards of entrepreneurship
 * Key founders decisions
