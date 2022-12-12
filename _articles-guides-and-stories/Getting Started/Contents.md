@@ -1,9 +1,10 @@
 ---
 title: Contents
-permalink: /articles-guides/getting-started/introduction/
+permalink: /articles/getting-started/introduction/
 third_nav_title: Getting Started
 description: ""
 ---
+
 # Getting started
 
 1. [Introduction to Entrepreneurship](/articles/getting-started/entrepreneurship/)
