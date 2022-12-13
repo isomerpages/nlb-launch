@@ -8,7 +8,7 @@ description: ""
 Contents:
 * Develop your brand strategy
 * Entrepreneurial marketing*
-* Essentials of social media marketing*
+* [Essentials of social media marketing](/articles/getting-started/branding/essentials-social-media-marketing/)
 * Guide to YouTube for business start-ups
 * Customer Acquisition and Sales Management
 * Marketing Analytics
