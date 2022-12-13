@@ -7,9 +7,7 @@ description: ""
 
 Navigate the shift of growth opportunities to Asia with Eye on Asia’s curated programmes and resources. Tap into the insights of professionals who have ventured into the region.
 
-Eye on Asia is a collaborative effort by the National Library, Singapore with several [partners](#partners) to provide resources for everyone, including young Singaporeans who wish to find out more about the region and explore internationalisation opportunities abroad.
-
-Focusing on ASEAN countries, China and India including emerging cities, you will discover a broad overview of useful resources to help you be more aware of developments in these countries as Singapore gears itself for the future economy.
+Eye on Asia is a one-stop resource for anyone who wants to find out more about the region and explore international opportunities. Focusing on ASEAN countries, China and India as well as emerging cities, Eye on Asia provides a wide range of useful resources to increase awareness of developments in these countries and cities.
 
 Look out also for [programmes](#events) with our partners to gain insights from entrepreneurs and people who have lived and worked abroad.
 
@@ -55,6 +53,8 @@ Look out also for [programmes](#events) with our partners to gain insights from 
 
 
 ## Partners
+
+Eye on Asia is a collaborative effort by the National Library, Singapore with several to provide resources for everyone, including young Singaporeans who wish to find out more about the region and explore internationalisation opportunities abroad.
 
 We thank our partners for contributing to the initiative by allowing us access to their resources on ASEAN countries, China and India, providing information on the work and learning opportunities in these countries as well as first-hand accounts of people who have lived and worked there.
 
