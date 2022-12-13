@@ -9,7 +9,7 @@ third_nav_title: Running the Business
 ## Contents:
 
 * New venture financing/entrepreneurial finance
-* Financing for start-ups
+* [Financing a start-up](/articles/running-business/finance-legal/financing-startup/)
 * [Basic finance skills every entrepreneur needs](/articles/running-business/finance-legal/basic-finance-skills/)
 * Key financial decisions for entrepreneurs
 * How to register a business and apply for licenses in Singapore
