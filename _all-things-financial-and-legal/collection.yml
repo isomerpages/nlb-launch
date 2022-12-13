@@ -2,5 +2,6 @@ collections:
   all-things-financial-and-legal:
     output: true
     order:
+      - How to Register a Business and Apply for Licences in Singapore.md
       - Financing a Start Up.md
       - Basic finance skills every entrepreneur needs.md
