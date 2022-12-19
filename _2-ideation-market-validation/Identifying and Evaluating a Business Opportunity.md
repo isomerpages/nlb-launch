@@ -3,9 +3,6 @@ title: Identifying and Evaluating a Business Opportunity
 permalink: /articles/get-started/ideation-validation/id-evaluate-opp/
 description: ""
 ---
-
-
-
 # Identifying and Evaluating a Business Opportunity
 
 Discovering new business opportunities may be exciting, but not all ideas are worth the effort. A successful business largely depends on recognising and choosing the right – and meaningful – business opportunity to pursue. So how should you identify and evaluate if a business opportunity is the right fit for you? 
@@ -20,19 +17,19 @@ Another source of new business ideas is your customers. Listen to them, understa
 
 Evaluating and identifying the risks of a potential business opportunity is an important process. You will need to assess and determine the viability of each opportunity and if your product or service has any potential marketability. 
 
-1. Customer analysis
+### 1. Customer analysis
 
    The key to a business’ success is its customers. Determine if there is a market for your product or service. Establish where and who your customers are, what and when they want to buy and what they are willing to pay for your product or service.
 
-2.	Competitor analysis
+### 2.	Competitor analysis
 
    Identify and analyse your competitors to understand the market. This is also an opportunity to identify customer needs that are not met by your competitors and for you to potentially fill this gap. Look into what they are doing (and not doing), what they are doing right, their price points and how they are attracting their customers. Your business is more likely be successful if your product or service is unique and stands out from your competitors.
 
-3.	Industry analysis
+### 3.	Industry analysis
 
    Understand the industry you are entering and assess if it provides long-term opportunities for growth and financial success. Conduct market research. Analyse industry trends and insights. Establish if the industry is growing or shrinking. You may also want to explore if it is the right time to enter the market, the size of the customer base, if there are substitute products in the market, and what the barriers to entry are.
 
-4.	Regulatory constraints
+### 4.	Regulatory constraints
 
    Find out if there are any regulations that affect the industry you are entering. Determine the regulatory standards that your product or service must conform to.
 
@@ -52,7 +49,3 @@ Popomaronis, Tom. (2020, May 11). “5 Tips for Recognising a Meaningful Busines
 Resnick, Nathan. (2018, June 20). “7 Ways to Identify Real, Money-making Business Opportunities”. <https://www.entrepreneur.com/article/314543>
 
 Spencer, Jennifer. (2019, January 9). “5 Simple Ways to Identify Business Ideas that Could (Really) Change the World”. <https://www.entrepreneur.com/article/325922>
-
-
-
-
