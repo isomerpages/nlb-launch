@@ -1,12 +1,12 @@
 ---
-title: 10 Ways to Get Customer Feedback
+title: Ten Ways to Get Customer Feedback
 permalink: /articles/get-started/ideation-validation/10-ways-to-get-customer-feedback/
 description: "Customer feedback refers to input from customers about their
   experience with your business, products, or services. This could come in the
   form of information, insights, problems, or compliments. "
 ---
 
-# 10 Ways to Get Customer Feedback  
+# Ten Ways to Get Customer Feedback  
 
 ## What is customer feedback and why is it important?  
 
