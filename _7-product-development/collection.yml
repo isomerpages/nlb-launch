@@ -1,4 +1,5 @@
 collections:
   7-product-development:
     output: true
-    order: []
+    order:
+      - New Product Development.md
