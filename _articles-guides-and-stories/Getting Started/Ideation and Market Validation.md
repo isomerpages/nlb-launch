@@ -11,4 +11,4 @@ Contents:
 * Evaluate an idea and assess the market
 * [10 ways to get customer feedback](/articles/get-started/ideation-validation/10-ways-to-get-customer-feedback)
 * [Lean market validation](/articles/get-started/ideation-validation/lean-market-validation)
-* Refine your business strategy
+* [Refine your business strategy](/articles/get-started/ideation-validation/refine-business-strategy/)
