@@ -1,4 +1,5 @@
 collections:
   3-business-and-market-research:
     output: true
-    order: []
+    order:
+      - Market Research Basics.md
