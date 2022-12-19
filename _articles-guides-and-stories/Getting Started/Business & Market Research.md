@@ -9,7 +9,7 @@ description: ""
 Contents:
 
 * [Market research basics](/articles/getting-started/research/basics)
-* Market research methods *
+* [Market research methods](/articles/getting-started/research/methods)
 * 5 useful market intelligence studies for decision makers
 * Effective sampling techniques for market research 
 * Primary vs secondary market research
