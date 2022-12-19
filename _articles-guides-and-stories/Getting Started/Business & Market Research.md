@@ -12,4 +12,4 @@ Contents:
 * [Market research methods](/articles/getting-started/research/methods)
 * 5 useful market intelligence studies for decision makers
 * Effective sampling techniques for market research 
-* Primary vs secondary market research
+* [Primary vs secondary market research](/articles/getting-started/research/primary-vs-secondary-research)
