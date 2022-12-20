@@ -7,7 +7,7 @@ description: ""
 # Protecting Your Ideas
 
 Contents:
-* What is intellectual property and how to protect it*
+* [What is intellectual property and how to protect it](/articles/getting-started/protect/what-is-ip-how-to-protect/)
 * How do I protect my idea for a product?* 
 * A beginner’s guide to trademark infringement 
 * An introduction to YouTube Copyright 
