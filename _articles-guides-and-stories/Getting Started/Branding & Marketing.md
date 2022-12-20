@@ -6,7 +6,7 @@ description: ""
 ---
 # Branding & Marketing
 Contents:
-* Develop your brand strategy
+* [Developing your brand strategy](/articles/getting-started/branding/develop-brand-strategy/)
 * Entrepreneurial marketing*
 * [Essentials of social media marketing](/articles/getting-started/branding/essentials-social-media-marketing/)
 * Guide to YouTube for business start-ups
