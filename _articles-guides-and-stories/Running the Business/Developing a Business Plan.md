@@ -9,7 +9,7 @@ third_nav_title: Running the Business
 
 ## Contents
 
-* What is a business plan?
+* [What is a business plan?](/articles/running-business/business-plan/what-is-a-business-plan/)
 * [How to write a great business plan](/articles/running-business/business-plan/write-good-business-plan/)
 * Overview of business models and planning
 * Brick and mortar vs. e-commerce/omnichannel
