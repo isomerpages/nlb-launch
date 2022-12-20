@@ -9,7 +9,7 @@ Contents:
 * [Developing your brand strategy](/articles/getting-started/branding/develop-brand-strategy/)
 * Entrepreneurial marketing*
 * [Essentials of social media marketing](/articles/getting-started/branding/essentials-social-media-marketing/)
-* Guide to YouTube for business start-ups
+* [YouTube for business start-ups](/articles/getting-started/branding/youtube-busines-start-ups/)
 * Customer Acquisition and Sales Management
 * Marketing Analytics
 * Create a great website
