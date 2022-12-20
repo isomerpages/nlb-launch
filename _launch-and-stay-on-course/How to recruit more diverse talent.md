@@ -1,5 +1,5 @@
 ---
-title: How to Recruit More Diverse Talent
+title: How to recruit more diverse talent
 permalink: /articles/running-business/launch-stay-on-course/recruit-diverse-talent/
 description: "Organisations are in competition for top talent. Talented people
   are drawn to diverse workplaces imbued with a culture of respect that also
@@ -7,6 +7,7 @@ description: "Organisations are in competition for top talent. Talented people
   genders, races, and nationalities is key to improving a company’s innovation
   potential.  "
 ---
+
 # How to Recruit More Diverse Talent 
 
 Organisations are in competition for top talent. Talented people are drawn to diverse workplaces imbued with a culture of respect that also values different perspectives. Workplace diversity comprising different genders, races, and nationalities is key to improving a company’s innovation potential.   
