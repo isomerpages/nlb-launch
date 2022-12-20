@@ -92,10 +92,4 @@ Traylor, Adelee. E. (2019, November 25). “Intellectual Property 101: What is I
 
  
 
-World Intellectual Property Organization. (2020). “What is Intellectual Property?” https://www.wipo.int/edocs/pubdocs/en/wipo_pub_450_2020.pdf 
-
- 
-
- 
-
- 
+World Intellectual Property Organization. (2020). “What is Intellectual Property?” <https://www.wipo.int/edocs/pubdocs/en/wipo_pub_450_2020.pdf>
