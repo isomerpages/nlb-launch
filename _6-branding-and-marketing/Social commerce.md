@@ -1,5 +1,5 @@
 ---
-title: Social Commerce
+title: Social commerce
 permalink: /articles/getting-started/branding/social-commerce/
 description: "Social commerce allows consumers to buy products or services
   directly from social media platforms. The entire shopping experience, from
@@ -7,6 +7,7 @@ description: "Social commerce allows consumers to buy products or services
   place on the platform. Social commerce is a great way to grow your brand and
   drive your sales and revenue. "
 ---
+
 # Social Commerce 
 
 ## What is social commerce? 

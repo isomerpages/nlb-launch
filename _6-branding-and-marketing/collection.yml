@@ -2,7 +2,7 @@ collections:
   6-branding-and-marketing:
     output: true
     order:
-      - Essentials of Social Media Marketing.md
-      - Building and Retaining Customer Loyalty.md
-      - Social Commerce.md
-      - Mobile Commerce.md
+      - Essentials of social media marketing.md
+      - Building and retaining customer loyalty.md
+      - Social commerce.md
+      - Mobile commerce.md

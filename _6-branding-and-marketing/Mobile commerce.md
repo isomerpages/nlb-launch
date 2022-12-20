@@ -1,5 +1,5 @@
 ---
-title: Mobile Commerce
+title: Mobile commerce
 permalink: /articles/getting-started/branding/mobile-commerce/
 description: "Mobile commerce, also known as m-commerce, refers to the purchase
   and sale of goods and services via mobile devices such as smartphones or
@@ -7,6 +7,7 @@ description: "Mobile commerce, also known as m-commerce, refers to the purchase
   mobile application available through a platform or a web-based application
   accessible through web browsers.  "
 ---
+
 # Mobile Commerce 
 
 ## What is mobile commerce? 

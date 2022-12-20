@@ -1,11 +1,12 @@
 ---
-title: Essentials of Social Media Marketing
+title: Essentials of social media marketing
 permalink: /articles/getting-started/branding/essentials-social-media-marketing/
 description: Social media marketing uses social media platforms, such as
   Facebook, Instagram and Twitter, to promote products or services directly to
   customers. It is a powerful tool that can help brands and businesses reach and
   connect with their desired audiences.
 ---
+
 # Essentials of Social Media Marketing 
 
 ## What is social media marketing? 

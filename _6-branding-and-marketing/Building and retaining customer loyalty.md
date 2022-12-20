@@ -1,11 +1,12 @@
 ---
-title: Building and Retaining Customer Loyalty
+title: Building and retaining customer loyalty
 permalink: /articles/getting-started/branding/customer-loyalty/
 description: "Customer loyalty describes an ongoing positive relationship
   between a business and a customer. Customer loyalty is a measure of how likely
   a customer will remain with a company’s products or services even when there
   are competing alternatives.  "
 ---
+
 # Building and Retaining Customer Loyalty 
 
 Customer loyalty describes an ongoing positive relationship between a business and a customer. Customer loyalty is a measure of how likely a customer will remain with a company’s products or services even when there are competing alternatives.  
