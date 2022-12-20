@@ -2,6 +2,7 @@ collections:
   developing-a-business-plan:
     output: true
     order:
+      - What is a Business Plan.md
       - How to Write a Good Business Plan.md
       - Common mistakes in business plans.md
       - Pricing Models for Business.md
