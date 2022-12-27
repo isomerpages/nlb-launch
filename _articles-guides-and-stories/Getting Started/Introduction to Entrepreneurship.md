@@ -10,7 +10,7 @@ description: ""
 ## Contents:
 
 * [What is an entrepreneur?](/articles/getting-started/entrepreneurship/what-is-an-entrepreneur)
-* Developing your entrepreneurial skills*
+* [Developing your entrepreneurial skills](/articles/getting-started/entrepreneurship/developing-entrepreneurial-skills)
 * [Different types of entrepreneurship](/articles/getting-started/entrepreneurship/different-types)
 * [How to become a successful entrepreneur](/articles/getting-started/entrepreneurship/successful-entrepreneur)
 * [Explore the risks and rewards of entrepreneurship](/articles/getting-started/entrepreneurship/risks-rewards)
