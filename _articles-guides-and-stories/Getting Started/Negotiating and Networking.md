@@ -13,4 +13,4 @@ Contents:
 * [Basic negotiation and persuasion strategies](/articles/getting-started/negotiate/basic-strategies/)
 * [Communication and presentation skills](/articles/getting-started/negotiate/communication-presentation-skills/)
 * How to speak to investors
-* Do's and don'ts of business networking
+* [Do's and don'ts of business networking](/articles/getting-started/negotiate/dos-donts-business-networking)
