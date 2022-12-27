@@ -12,7 +12,7 @@ third_nav_title: Running the Business
 * [What is a business plan?](/articles/running-business/business-plan/what-is-a-business-plan/)
 * [How to write a great business plan](/articles/running-business/business-plan/write-good-business-plan/)
 * Overview of business models and planning
-* Brick and mortar vs. e-commerce/omnichannel
+* [Brick and mortar vs. e-commerce/omnichannel](/articles/running-business/business-plan/brick-mortar-ecommerce-omnichannel/)
 * Types off e-commerce business models
 * [Common mistakes in business plans](/articles/running-business/business-plan/common-mistakes)
 * Business plan FAQs
