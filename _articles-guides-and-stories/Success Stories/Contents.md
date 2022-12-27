@@ -9,4 +9,5 @@ third_nav_title: Success Stories
 ### Contents:
 
 * [Sheng Siong](/articles-guides/stories/sheng-siong/)
+* [ShopBack](/articles-guides/stories/shopback/)
 * [Spa Esprit Group](/articles-guides/stories/spa-esprit-group/)
