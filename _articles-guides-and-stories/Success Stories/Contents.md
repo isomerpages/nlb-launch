@@ -8,6 +8,7 @@ third_nav_title: Success Stories
 
 ### Contents:
 
+* [Grab](/articles-guides/stories/grab/)
 * [Love Bonito](/articles-guides/stories/love-bonito/)
 * [Lunch Actually](/articles-guides/stories/lunch-actually/)
 * [Mind Stretcher](/articles-guides/stories/mind-stretcher/)
