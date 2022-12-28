@@ -8,6 +8,7 @@ third_nav_title: Success Stories
 
 ### Contents:
 
+* [Awfully Chocolate](/articles-guides/stories/awfully-chocolate/)
 * [Carousell](/articles-guides/stories/carousell/)
 * [Grab](/articles-guides/stories/grab/)
 * [Love Bonito](/articles-guides/stories/love-bonito/)
