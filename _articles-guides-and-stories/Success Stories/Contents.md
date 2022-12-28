@@ -8,6 +8,7 @@ third_nav_title: Success Stories
 
 ### Contents:
 
+* [Lunch Actually](/articles-guides/stories/lunch-actually/)
 * [Mind Stretcher](/articles-guides/stories/mind-stretcher/)
 * [Secretlab](/articles-guides/stories/secretlab/)
 * [Sheng Siong](/articles-guides/stories/sheng-siong/)
