@@ -8,6 +8,7 @@ third_nav_title: Success Stories
 
 ### Contents:
 
+* [Mind Stretcher](/articles-guides/stories/mind-stretcher/)
 * [Secretlab](/articles-guides/stories/secretlab/)
 * [Sheng Siong](/articles-guides/stories/sheng-siong/)
 * [ShopBack](/articles-guides/stories/shopback/)
