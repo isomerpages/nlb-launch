@@ -88,7 +88,7 @@ Hear directly from social entrepreneurs of various industries and professions as
 Rupert Scofield. (2021). “The Social Enterprise Podcast”.
 <https://socentpodcast.org/>
 
-With more than 40 years of experience of social entrepreneurship in developing countries, Scofield, together with invited guests, explores different aspects of the social entrepreneurship world, including what it takes to start and run a sustainable business.&nbsp;
+With more than 40 years of experience of social entrepreneurship in developing countries, Scofield, together with invited guests, explores different aspects of the social entrepreneurship world, including what it takes to start and run a sustainable business.
 
 ### **Author**
 
