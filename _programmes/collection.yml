@@ -1,0 +1,6 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Programmes Series.md
+      - Past Event Recordings.md

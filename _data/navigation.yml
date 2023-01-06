@@ -6,8 +6,8 @@ links:
     collection: articles-guides-and-stories
   - title: Eye on Asia
     collection: eye-on-asia
-  - title: Events
-    collection: events
+  - title: Programmes
+    collection: programmes
   - title: About Us
     url: /contact-us
     sublinks:
