@@ -16,9 +16,9 @@ Photo credit: Retrieved from Pexels: https://www.pexels.com/photo/city-road-man-
 
 ## Introduction 
 
-In a gig economy, digital platforms are used to match independent contractors with clients for short contract work stints and payment-by-task basis. Examples of such work include delivery services, freelance design/ writing/ coding/ administrative work, and providing household cleaning and baby-sitting services. Employment on the gig-economy platform currently comprises less than three percent of the global employment market share but it is a fast-developing sector. According to the Organisation for Economic Co-operation and Development (OECD), the global gig-economy is projected to grow by 17 percent yearly to reach US$455 billion by 2023. Flexibility, independence and the opportunity to earn a supplemental income are the common reasons which attract people to the gig economy, although some take on such jobs as they are unable to find full\-time employment.1 
+In a gig economy, digital platforms are used to match independent contractors with clients for short contract work stints and payment-by-task basis. Examples of such work include delivery services, freelance design/ writing/ coding/ administrative work, and providing household cleaning and baby-sitting services. Employment on the gig-economy platform currently comprises less than three percent of the global employment market share but it is a fast-developing sector. According to the Organisation for Economic Co-operation and Development (OECD), the global gig-economy is projected to grow by 17 percent yearly to reach US$455 billion by 2023. Flexibility, independence and the opportunity to earn a supplemental income are the common reasons which attract people to the gig economy, although some take on such jobs as they are unable to find full\-time employment.
 
-This resource guide lists some resources on working in the gig economy which are available in the Lee Kong Chian Reference Library and on the Internet. Readers with an interest in this subject are recommended to search the NLB catalogue ([https://catalogue.nlb.gov.sg/](https://catalogue.nlb.gov.sg/)) for more resources. Academic journal and research articles can be found from NLB’s subscribed databases, which are accessible via NLB’s eresources website [https://eresources.nlb.gov.sg/main/](https://eresources.nlb.gov.sg/main/).  
+This resource guide lists some resources on working in the gig economy which are available in the Lee Kong Chian Reference Library and on the Internet. Readers with an interest in this subject are recommended to search the [NLB catalogue](https://catalogue.nlb.gov.sg/) for more resources. Academic journal and research articles can be found from NLB’s subscribed databases, which are accessible via [NLB’s eresources website](https://eresources.nlb.gov.sg/main/).  
 
 Books and journal articles can be sourced by using these search terms:
 
@@ -103,3 +103,9 @@ Hosted by CreativesAtWork co-founders, listen to the 30 to 40-minute podcasts or
 SGExplained. (2020, June 3). "The Singapore gig economy". <https://podtail.com/en/podcast/sg-explained/the-singapore-gig-economy/>  
 
 In this 50-minute podcast, Audrey Lim, a Singaporean, shares her experiences of being a freelancer in the entertainment industry. She also shares her observations about the current state of the gig economy in Singapore, the profile of the 'own-account worker' and suggests some policy tweaks which would help the gig economy to bloom.
+
+## Author
+
+This resource guide was prepared in April 2022 by Sharon Teng, Librarian at the National Library, Singapore. The information in this resource guide is valid as of April 2022 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic. 
+
+All Rights Reserved. National Library Board Singapore 2022.

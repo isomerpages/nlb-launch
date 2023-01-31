@@ -2,6 +2,5 @@ collections:
   business-kick-starter:
     output: true
     order:
-      - print-and-digital-resources/.keep
-      - print-and-digital-resources/introduction.md
-      - print-and-digital-resources/test.md
+      - Consult a Specialist.md
+      - Information Resources.md
