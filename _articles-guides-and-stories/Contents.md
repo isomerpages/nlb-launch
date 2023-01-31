@@ -20,21 +20,21 @@ Explore our library of helpful articles for tips and things to consider while ru
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox">
-      <a href="/articles-guides/getting-started/introduction/">
+      <a href="/articles/getting-started/introduction/">
         <span>Getting Started</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox">
-      <a href="/articles-guides/running-business/">
+      <a href="/articles/running-business/business-plan/">
         <span>Running the Business</span>
       </a>
     </div>
   </div>
    <div class="col is-one-third">
 		     <div class="clickbox">
-      <a href="/articles-guides/resource-guides/">
+      <a href="/articles-guides/resource-guides/contents/">
         <span>Resource Guides</span>
       </a>
     </div>
@@ -44,14 +44,14 @@ Explore our library of helpful articles for tips and things to consider while ru
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox">
-      <a href="/articles-guides/lists/">
+      <a href="/articles-guides/lists/contents/">
         <span>Useful Lists</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox">
-      <a href="/articles-guides/stories/">
+      <a href="/articles-guides/stories/contents/">
         <span>Success Stories</span>
       </a>
     </div>
