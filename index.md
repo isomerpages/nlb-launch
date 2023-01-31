@@ -4,7 +4,8 @@ title: Launch - Business Resource Centre
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: This website is still in maintenance and being updated, and some
+  content may not be accurate.
 sections:
   - hero:
       title: Let's take the next step, together
