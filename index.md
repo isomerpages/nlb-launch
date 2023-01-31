@@ -61,9 +61,9 @@ sections:
   - infopic:
       title: Workshops & Programmes
       subtitle: Free for all
-      description: Keep an eye out for workshops, webinars and programmes from our partners.
-      button: View Calendar
-      url: /programmes/event-calendar
+      description: Keep an eye out for our free workshops, seminars and programmes.
+      button: View Programmes
+      url: /programmes/programmes-series
       image: /images/icons/Programmes-Virtual-01.png
       alt: Programmes
   - infobar:
@@ -71,5 +71,5 @@ sections:
       subtitle: You're all Set!
       description: Consult a Launch specialist today!
       button: Contact Us
-      url: /consult-a-specialist
+      url: /business-kick-starter/consult-a-specialist/
 ---
