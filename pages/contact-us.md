@@ -5,8 +5,8 @@ permalink: /contact-us/
 agency_name: Launch
 locations:
   - address:
-      - Level 7
       - 100 Victoria Street
+      - Level 7 Reading Room
       - Singapore 188064
     operating_hours:
       - days: Mon - Sun
